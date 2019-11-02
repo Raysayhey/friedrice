@@ -12,6 +12,7 @@ import ReviewsBlock from './ReviewsBlock';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
+import team from '../templates/team';
 
 export {
     ContentBlock,
@@ -27,7 +28,8 @@ export {
     ReviewsBlock,
     Social,
     SubscribeForm,
-    Layout
+    Layout,
+    team
 };
 
 export default {
@@ -44,5 +46,6 @@ export default {
     ReviewsBlock,
     Social,
     SubscribeForm,
-    Layout
+    Layout,
+    team
 };

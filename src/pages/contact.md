@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contact Us
+img_path: /images/contact.png
 menus:
   secondary:
-    title: Contact
+    title: Contact Us
     weight: 3
 template: contact
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+We would love to hear from you. Tell us what you need and our Team shall get back to you within the day.

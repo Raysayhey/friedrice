@@ -1,94 +1,96 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: hero
-    title: This Is A Big Hero Headline
+  - actions:
+      - label: Contact Us
+        url: /contact
     component: HeroBlock
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |-
+      **Marketing Digitalisierung**
+
+      Kontaktieren Sie uns für eine Abklärung wie unsere Agentur Ihnen helfen kann.
     image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
-  - type: featuresblock
-    section_id: features
-    title: Features
+    section_id: hero
+    title: Digital Marketing
+    type: heroblock
+  - bg: gray
     component: FeaturesBlock
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+      - actions:
+          - label: Learn More
+            url: /what-we-do
+        content: "bla blab bla
+        \r\n\n\r
+        Our internet marketing agency frees up your sales team to do their work. We get QUALIFIED leads for your business. Every day.
+        \r\n\n\r
+        Sales leads abound, if you know where to look for them.
+        \r\n\n\r
+        We do."
         image: images/feature1.png
-        actions:
+        title: Lead Generation
+      - actions:
           - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+            url: /what-we-do
+        content: "Take Control of your online reputation.\r\n\n\rAfter all the hard work you have put in your business, you deserve a stellar online reputation.\r\n\n\rWe’ll build your brand assets and improve search results. The goal is to make your brand stand out among all the noise. \r\n\n\rContact us for a free  analysis."
         image: images/feature2.png
-        actions:
+        title: Brand Management
+      - actions:
           - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+            url: /what-we-do
+        content: "Our passion is growing your business through the power of the internet.\r\n\n\rFrom SEO, Social Media Marketing to Content Marketing and Online Advertising our team ensures your products and services sell.\r\n\n\rDon’t miss out on quality leads to your business. We’ll help you get started and thrive.."
         image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: reviewsblock
-    section_id: reviews
-    title: Testimonials
-    component: ReviewsBlock
+        title: Digital Marketing
+    section_id: what-we-do
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: ctablock
-    section_id: call-to-action
-    title: This Is Call To Action Block!
+      Are you ready to leave ordinary marketing in the dust and get better
+      results? You have found your partner.
+    title: What We Do
+    type: featuresblock
+  # - bg: white
+  #   component: ReviewsBlock
+  #   reviews:
+  #     - author: John Doe
+  #       avatar: images/group71.png
+  #       content: >-
+  #         DM-Block is reliable, dependable and trustworthy in my experience.They
+  #         also know their subject really well and have been experts in SEO for a
+  #         long time.I trust their advice and I value the insights and
+  #         recommendations they make for my businesses.
+  #     - author: Jane Roe
+  #       avatar: images/review2.jpg
+  #       content: >-
+  #         We have used DM-Block for the past 5 years and they are now an
+  #         integral part of our digital marketing strategy. We have numerous
+  #         websites and some in-house developers but they give us independent
+  #         advice and keep us informed of all the latest changes in this arena.
+  #     - author: Richard Roe
+  #       avatar: images/review3.jpg
+  #       content: >-
+  #         DM-Block are very professional, experienced and a pleasure to deal
+  #         with. I highly recommend Leslie without hesitation. Leslie’s knowledge
+  #         of SEO is not only vast it is also (and this is vital with the ever
+  #         changing Google algorithm) up to date and cutting edge.
+  #   section_id: reviews
+  #   subtitle: We love compliments...
+  #   title: Testimonials
+  #   type: reviewsblock
+  - actions:
+      - label: Succeed Today
+        url: /contact
     component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: postsblock
+    section_id: call-to-action
+    subtitle: Contact us to work with a results-driven digital internet marketing agency
+    title: READY TO GROW YOUR BUSINESS?
+    type: ctablock
+  - bg: gray
+    component: PostsBlock
     section_id: recent-posts
     title: Latest Posts
-    component: PostsBlock
-    bg: gray
+    type: postsblock
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+

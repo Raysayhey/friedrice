@@ -1,76 +1,54 @@
 ---
 title: Pricing
 sections:
-  - type: pricingblock
-    section_id: pricing
-    title: Pricing Plans
+  - bg: gray
     component: PricingBlock
-    subtitle: You can have a separate pricing page or list everything on the home page.
-    bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        actions:
-          - label: Order Now
-            url: /signup
-      - title: Professional
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
-        highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-      - title: Enterprise
-        price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        actions:
-          - label: Order Now
-            url: /signup
-  - type: faqblock
-    section_id: faq
-    title: Frequently Asked Questions
+      - actions:
+          - label: Kontakt
+            url: /contact
+        details: "![Basic Plan](/images/041-canoe200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
+        price: mind. 350.-
+        title: Klein
+      - actions:
+          - label: Kontakt
+            url: /contact
+        details: "![Professional Plan](/images/042-jetski200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
+        highlight: false
+        price: mind. 800.-
+        title: Mittel
+      - actions:
+          - label: Kontakt
+            url: /contact
+        details: "![Enterprise Plan](/images/044-amphibious-vehicle200.png)\n\n* Analyse & Monitor\r\n* Kampagne\r\n* Technische SEO"
+        price: mind. 1200.-
+        title: Gross
+    section_id: pricing
+    subtitle: ''
+    title: Pricing Plans
+    type: pricingblock
+  - bg: gray
     component: FaqBlock
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
-    bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+      - answer: "This is a very complex question which demands a thorough answer. \r\n\nBut, before we provide marketing budget recommendations, let's define it: Your marketing budget refers to all costs for marketing, advertising, public relations, event marketing, and anything else you might leverage to promote the brand and drive revenue.\r\n\nBased on the latest research, our expert opinions, and years of marketing experience, we, generally, recommend:\r\n\n**You should spend 2 to 5 percent of your sales revenue on marketing.**"
+        question: What should my digital marketing budget be?
+      - answer: "Yes, an exhaustive competitor analysis and benchmark report is a mandatory initiative/service for all new client programs.\r\n\n\rWe leverage best-in-class tools like Google Analytics, Google Trends, Ahref, SEM Rush, Raven Tools, Moz, ScreamingFrog, Majestic, Sprout Social, Spyfu, SearchMetrics, and more to deliver comprehensive peer analysis, audit reports, forecasting, and future strategy planning."
+        question: >-
+          Can you provide relevant and current benchmark data for
+          peers/competitors?
+      - answer: "We customize reports for all levels of our clients’ marketing teams.\r\n\n\rEach of your stakeholders has varying levels of interest in each marketing program and, thus, varying KPI’s for which they need reporting. For this reason, we provide tailor made reports for each client that suits their exact reporting needs.."
+        question: Was für Analyse Berichte dürfen Sie erwarten?
+    section_id: faq
+    subtitle: Unsere Leistung & Ihre Erwartungen
+    title: Häufige Fragen
+    type: faqblock
 menus:
   main:
     title: Pricing
     weight: 3
+  secondary:
+    title: Pricing
+    weight: 3
 template: pricing
 ---
+
