@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 img_path: /images/contact.png
 menus:
   secondary:
