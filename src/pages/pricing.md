@@ -47,7 +47,7 @@ menus:
     title: Pricing
     weight: 3
   secondary:
-    title: Pricing
+    title: Preise
     weight: 3
 template: pricing
 ---
