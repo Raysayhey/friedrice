@@ -9,4 +9,4 @@ menus:
     weight: 3
 template: contact
 ---
-We would love to hear from you. Tell us what you need and our Team shall get back to you within the day.
+Melden Sie sich bei uns. Wir werden Ihnen so bald als möglich Antworten.
