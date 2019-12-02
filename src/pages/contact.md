@@ -2,8 +2,10 @@
 title: Contact
 img_path: /images/contact.png
 menus:
+  main:
+    title: Kontakt
   secondary:
-    title: Contact Us
+    title: Kontakt
     weight: 3
 template: contact
 ---
