@@ -2,49 +2,57 @@
 title: Home
 sections:
   - actions:
-      - label: Contact Us
+      - label: Kontakt
         url: /contact
     component: HeroBlock
     content: |-
       **Marketing Digitalisierung**
 
-      Kontaktieren Sie uns für eine Abklärung wie unsere Agentur Ihnen helfen kann.
-    image: images/hero.png
+      Kontaktieren Sie uns für einen gratis SEO Raport Ihrer Webseite
+    image: images/smoke_vio1.png
     section_id: hero
-    title: Digital Marketing
+    title: Digital Marketing Agentur
     type: heroblock
   - bg: gray
     component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Learn More
-            url: /what-we-do
-        content: "bla blab bla
+          - label: Mehr dazu
+            url: /features
+        content: "Wir Analysieren Ihren Internet auftritt
         \r\n\n\r
-        Our internet marketing agency frees up your sales team to do their work. We get QUALIFIED leads for your business. Every day.
+        Wir helfen Ihnen zu verstehen wie Ihre Besucher Ihre Webseite benutzen.
         \r\n\n\r
-        Sales leads abound, if you know where to look for them.
-        \r\n\n\r
-        We do."
-        image: images/feature1.png
-        title: Lead Generation
+        Kontaktieren Sie uns für eine gratis Analyse
+        "
+        image: images/smoke_blu_350.png
+        title: Analyse
       - actions:
           - label: Learn More
             url: /what-we-do
-        content: "Take Control of your online reputation.\r\n\n\rAfter all the hard work you have put in your business, you deserve a stellar online reputation.\r\n\n\rWe’ll build your brand assets and improve search results. The goal is to make your brand stand out among all the noise. \r\n\n\rContact us for a free  analysis."
-        image: images/feature2.png
-        title: Brand Management
+        content: "Wir richten Ihnen die Tools ein, damit Sie selbstständig Ihr Marketing betreiben können
+        \r\n\n\r
+        Unser Ziel ist, dass Sie wissen, wie Sie selbst Ihr Marketing in die Hand nehmen können und dadurch kosten sparen.
+        \r\n\n\r
+         
+        \r\n\n\r"
+        image: images/smoke_green_web.png
+        title: Automatisierung
       - actions:
-          - label: Learn More
+          - label: Mehr dazu
             url: /what-we-do
-        content: "Our passion is growing your business through the power of the internet.\r\n\n\rFrom SEO, Social Media Marketing to Content Marketing and Online Advertising our team ensures your products and services sell.\r\n\n\rDon’t miss out on quality leads to your business. We’ll help you get started and thrive.."
-        image: images/feature3.png
+        content: "
+        Unsere Lieblingsbeschäftigung ist das gestalten von Digital Marketing Kampagnen
+        \r\n\n\r 
+        SEO, Social Media Marketing bis zu Content Kreationen und Online Advertisment, unser Team hilft Ihnen Ihre Produkte zu vermarkten.
+        \r\n\n\r 
+        Wir gestalten auf Ihr Geschäft zugeschnittene Marketing Kampagnen"
+        image: images/smoke_red_web.png
         title: Digital Marketing
     section_id: what-we-do
     subtitle: >-
-      Are you ready to leave ordinary marketing in the dust and get better
-      results? You have found your partner.
-    title: What We Do
+      
+    title: Unsere Schwerpunkte 
     type: featuresblock
   # - bg: white
   #   component: ReviewsBlock

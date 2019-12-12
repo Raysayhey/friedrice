@@ -29,23 +29,23 @@ export default class Contact extends React.Component {
                     <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
                       className="contact-form">
                       <p className="screen-reader-text">
-                        <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+                        <label>Nicht ausfüllen wenn Sie am leben sind: <input name="bot-field" /></label>
                       </p>
                       <p className="form-row">
                         <label className="form-label">Name</label>
                         <input type="text" name="name" className="form-input"/>
                       </p>
                       <p className="form-row">
-                        <label className="form-label">Email address</label>
+                        <label className="form-label">Email Adresse</label>
                         <input type="email" name="email" className="form-input"/>
                       </p>
                       <p className="form-row">
-                        <label className="form-label">Message</label>
+                        <label className="form-label">Nachricht</label>
                         <textarea name="message" className="form-textarea" rows="7" />
                       </p>
                       <input type="hidden" name="form-name" value="contactForm" />
                       <p className="form-row form-submit">
-                        <button type="submit" className="button">Send Message</button>
+                        <button type="submit" className="button">Senden</button>
                       </p>
                     </form>
                   </div>

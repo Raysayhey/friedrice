@@ -1,10 +1,12 @@
 ---
-title: Contact Us
-img_path: /images/contact.png
+title: Kontakt
+img_path: /images/frame_pony_web.png
 menus:
   secondary:
-    title: Contact Us
+    title: Kontakt
     weight: 3
 template: contact
 ---
-We would love to hear from you. Tell us what you need and our Team shall get back to you within the day.
+
+Wir würden gerne von Ihnen hören. <br />
+Sagen Sie uns wie wir Ihnen helfen können und wir melden uns bei Ihnen.

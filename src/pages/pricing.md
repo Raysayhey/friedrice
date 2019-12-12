@@ -8,20 +8,20 @@ sections:
           - label: Kontakt
             url: /contact
         details: "![Basic Plan](/images/041-canoe200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
-        price: mind. 350.-
-        title: Klein
+        price: ab 350Fr.
+        title: Einmal 
       - actions:
           - label: Kontakt
             url: /contact
-        details: "![Professional Plan](/images/042-jetski200.png)\n\n* Analyse\r\n* Kampagne\r\n* SEO"
+        details: "![Professional Plan](/images/042-jetski200.png)\n\n* Analyse & Monitor\r\n* Kampagne\r\n* SEO - SEA"
         highlight: false
-        price: mind. 800.-
-        title: Mittel
+        price: ab 600Fr.
+        title: Richtig
       - actions:
           - label: Kontakt
             url: /contact
-        details: "![Enterprise Plan](/images/044-amphibious-vehicle200.png)\n\n* Analyse & Monitor\r\n* Kampagne\r\n* Technische SEO"
-        price: mind. 1200.-
+        details: "![Enterprise Plan](/images/044-amphibious-vehicle200.png)\n\n* Analyse & Monitor\r\n* Kampagne\r\n* SEO - SEA"
+        price: ab 1200Fr.
         title: Gross
     section_id: pricing
     subtitle: ''

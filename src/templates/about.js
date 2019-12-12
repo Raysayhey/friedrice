@@ -23,10 +23,88 @@ export default class Project extends React.Component {
                   </div>
                 )}
               </header>
+
+                                  {/* Grid - Body */}
               <div class="grid">
                 <ul id="hexGrid">
                   <li class="hex">
                     <div class="hexIn">
+                      {/* <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
+                          }}
+                        ></div>
+                        <h1 id="demo1">This is a title</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a> */}
+                    </div>
+                  </li>
+
+
+                                   {/* 2  */}
+                  <li class="hex">
+                    <div class="hexIn">
+                      <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
+                          }}
+                        ></div>
+                        <h1 id="demo1">This is a title</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a>
+                    </div>
+                  </li>
+
+                                    {/* 3 */}
+                  <li class="hex">
+                    <div class="hexIn">
+                      <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
+                          }}
+                        ></div>
+                        <h1 id="demo1">This is a title</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a>
+                    </div>
+                  </li>
+                                    {/* 4 */}
+                  <li class="hex">
+                    <div class="hexIn">
+                      {/* <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
+                          }}
+                        ></div>
+                        <h1 id="demo1">This is a title</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a> */}
+                    </div>
+                  </li>
+
+                                    {/* 2 Linie s 1.  */}
+                  <li class="hex">
+                    <div class="hexIn">
                       <a class="hexLink" href="goo.com">
                         <div
                           class="img"
@@ -43,123 +121,25 @@ export default class Project extends React.Component {
                     </div>
                   </li>
 
+                           {/* 2. Linie s 2.  d Mitti  */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" href="/team">
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
+                            backgroundImage: ``
                           }}
                         ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        <h1 id="demo1">Team</h1>
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
+                          Finden Sie heraus wer wir sind
                         </p>
                       </a>
                     </div>
                   </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
-                          }}
-                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
-                          }}
-                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
-                          }}
-                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
-                          }}
-                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
-                          }}                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
-                  <li class="hex">
-                    <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
-                        <div
-                          class="img"
-                          style={{
-                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
-                          }}                        ></div>
-                        <h1 id="demo1">This is a title</h1>
-                        <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p>
-                      </a>
-                    </div>
-                  </li>
+
+                                    {/* Linie 2   s 3.  */}
                   <li class="hex">
                     <div class="hexIn">
                       <a class="hexLink" href="goo.com">
@@ -177,6 +157,42 @@ export default class Project extends React.Component {
                     </div>
                   </li>
 
+                            {/*  3. Linie s 1.  */}
+                  <li class="hex">
+                    <div class="hexIn">
+                      {/* <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://www.worldatlas.com/r/w728-h425-c728x425/upload/82/b5/30/shutterstock-377524567.jpg)`
+                          }}                        ></div>
+                        <h1 id="demo1">This is a title</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a> */}
+                    </div>
+                  </li>
+
+                                    {/*  3. Linie s 2.    */}
+                  <li class="hex">
+                    <div class="hexIn">
+                      <a class="hexLink" href="goo.com">
+                        <div
+                          class="img"
+                          style={{
+                            backgroundImage: `url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEn4PM-nKyX-K36zW5wn8DRg_oUT7ZxYo-daMCe4_udbWwIol)`
+                          }}                        ></div>
+                        <h1 id="demo1">Titiel unso</h1>
+                        <p id="demo2">
+                          Some sample text about the article this hexagon leads
+                          to
+                        </p>
+                      </a>
+                    </div>
+                  </li>
+                                    {/*  3. Linie s 3.  */}
                   <li class="hex">
                     <div class="hexIn">
                       <a class="hexLink" href="goo.com">
@@ -193,9 +209,11 @@ export default class Project extends React.Component {
                       </a>
                     </div>
                   </li>
+
+                                      {/*  3. Linie s 4.  */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      {/* <a class="hexLink" href="goo.com">
                         <div
                           class="img"
                           style={{
@@ -206,7 +224,7 @@ export default class Project extends React.Component {
                           Some sample text about the article this hexagon leads
                           to
                         </p>
-                      </a>
+                      </a> */}
                     </div>
                   </li>
                   {/* <li class="hex">
