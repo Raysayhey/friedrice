@@ -18,8 +18,8 @@
     "subscribe_title": "abonieren",
     "subscribe_content": "Newsletter abonieren",
     "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "Boost Your Success",
+    "social_title": "Agentur",
+    "tagline": "Marketing Agentur aus Zürich",
     "logo_img": "/images/logow.png",
     "has_social": true,
     "content": "&copy; DM-Block. All rights reserved.",
@@ -30,7 +30,7 @@
         "new_window": false
       }
     ],
-    "nav_title": "Company",
+    "nav_title": "Agentur",
     "has_nav": true
   }
 }
