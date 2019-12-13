@@ -6,12 +6,7 @@
     "logo_img": "/images/logob.png",
     "has_nav": true,
     "menu": {
-      "actions": [
-        {
-          "label": "Kontakt",
-          "url": "/contact"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
