@@ -8,15 +8,8 @@ sections:
     content: >-
       **Marketing Digitalisierung**
 
-<<<<<<< HEAD
       Kontaktieren Sie uns für einen gratis SEO Raport Ihrer Webseite
     image: images/smoke_vio1.png
-=======
-
-      Kontaktieren Sie uns für eine Abklärung wie unsere Agentur Ihnen helfen
-      kann.
-    image: images/hero.png
->>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
     section_id: hero
     title: Digital Marketing Agentur
     type: heroblock
@@ -24,7 +17,6 @@ sections:
     component: FeaturesBlock
     featureslist:
       - actions:
-<<<<<<< HEAD
           - label: Mehr dazu
             url: /features
         content: "Wir Analysieren Ihren Internet auftritt
@@ -35,15 +27,8 @@ sections:
         "
         image: images/smoke_blu_350.png
         title: Analyse
-=======
-          - label: Learn More
-            url: /what-we-do
-        content: "bla blab bla \r\n\n\r Our internet marketing agency frees up your sales team to do their work. We get QUALIFIED leads for your business. Every day. \r\n\n\r Sales leads abound, if you know where to look for them. \r\n\n\r We do."
-        image: images/feature1.png
-        title: Lead Generation
->>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
       - actions:
-          - label: Learn More
+          - label: Mehr dazu
             url: /what-we-do
         content: "Wir richten Ihnen die Tools ein, damit Sie selbstständig Ihr Marketing betreiben können
         \r\n\n\r
@@ -66,14 +51,8 @@ sections:
         title: Digital Marketing
     section_id: what-we-do
     subtitle: >-
-<<<<<<< HEAD
       
     title: Unsere Schwerpunkte 
-=======
-      Are you ready to leave ordinary marketing in the dust and get better
-      results? You have found your partner.
-    title: Unser Angebot
->>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
     type: featuresblock
   - actions:
       - label: Succeed Today
