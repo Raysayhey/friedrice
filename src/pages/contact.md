@@ -6,7 +6,7 @@ menus:
     title: ''
   secondary:
     title: ''
-    weight: 3
+    weight: ''
 template: contact
 ---
 
