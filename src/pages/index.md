@@ -5,11 +5,18 @@ sections:
       - label: Kontakt
         url: /contact
     component: HeroBlock
-    content: |-
+    content: >-
       **Marketing Digitalisierung**
 
+<<<<<<< HEAD
       Kontaktieren Sie uns für einen gratis SEO Raport Ihrer Webseite
     image: images/smoke_vio1.png
+=======
+
+      Kontaktieren Sie uns für eine Abklärung wie unsere Agentur Ihnen helfen
+      kann.
+    image: images/hero.png
+>>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
     section_id: hero
     title: Digital Marketing Agentur
     type: heroblock
@@ -17,6 +24,7 @@ sections:
     component: FeaturesBlock
     featureslist:
       - actions:
+<<<<<<< HEAD
           - label: Mehr dazu
             url: /features
         content: "Wir Analysieren Ihren Internet auftritt
@@ -27,6 +35,13 @@ sections:
         "
         image: images/smoke_blu_350.png
         title: Analyse
+=======
+          - label: Learn More
+            url: /what-we-do
+        content: "bla blab bla \r\n\n\r Our internet marketing agency frees up your sales team to do their work. We get QUALIFIED leads for your business. Every day. \r\n\n\r Sales leads abound, if you know where to look for them. \r\n\n\r We do."
+        image: images/feature1.png
+        title: Lead Generation
+>>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
       - actions:
           - label: Learn More
             url: /what-we-do
@@ -51,37 +66,15 @@ sections:
         title: Digital Marketing
     section_id: what-we-do
     subtitle: >-
+<<<<<<< HEAD
       
     title: Unsere Schwerpunkte 
+=======
+      Are you ready to leave ordinary marketing in the dust and get better
+      results? You have found your partner.
+    title: Unser Angebot
+>>>>>>> c11152410faf784ec9ee355362ad59f5bd7f3af0
     type: featuresblock
-  # - bg: white
-  #   component: ReviewsBlock
-  #   reviews:
-  #     - author: John Doe
-  #       avatar: images/group71.png
-  #       content: >-
-  #         DM-Block is reliable, dependable and trustworthy in my experience.They
-  #         also know their subject really well and have been experts in SEO for a
-  #         long time.I trust their advice and I value the insights and
-  #         recommendations they make for my businesses.
-  #     - author: Jane Roe
-  #       avatar: images/review2.jpg
-  #       content: >-
-  #         We have used DM-Block for the past 5 years and they are now an
-  #         integral part of our digital marketing strategy. We have numerous
-  #         websites and some in-house developers but they give us independent
-  #         advice and keep us informed of all the latest changes in this arena.
-  #     - author: Richard Roe
-  #       avatar: images/review3.jpg
-  #       content: >-
-  #         DM-Block are very professional, experienced and a pleasure to deal
-  #         with. I highly recommend Leslie without hesitation. Leslie’s knowledge
-  #         of SEO is not only vast it is also (and this is vital with the ever
-  #         changing Google algorithm) up to date and cutting edge.
-  #   section_id: reviews
-  #   subtitle: We love compliments...
-  #   title: Testimonials
-  #   type: reviewsblock
   - actions:
       - label: Succeed Today
         url: /contact
