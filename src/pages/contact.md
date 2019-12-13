@@ -3,7 +3,7 @@ title: Kontakt
 img_path: /images/frame_pony_web.png
 menus:
   main:
-    title: Kontakt
+    title: ''
   secondary:
     title: Kontakt
     weight: 3
