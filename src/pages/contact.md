@@ -5,7 +5,7 @@ menus:
   main:
     title: ''
   secondary:
-    title: Kontakt
+    title: ''
     weight: 3
 template: contact
 ---
