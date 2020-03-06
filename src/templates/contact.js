@@ -29,7 +29,7 @@ export default class Contact extends React.Component {
                     <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
                       className="contact-form">
                       <p className="screen-reader-text">
-                        <label>Nicht ausfüllen wenn Sie am leben sind: <input name="bot-field" /></label>
+                        <label>Nicht ausfüllen wenn Sie noch am leben sind: <input name="bot-field" /></label>
                       </p>
                       <p className="form-row">
                         <label className="form-label">Name</label>

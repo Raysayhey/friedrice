@@ -10,5 +10,4 @@ menus:
 template: contact
 ---
 
-Wir würden gerne von Ihnen hören. <br />
 Sagen Sie uns wie wir Ihnen helfen können und wir melden uns bei Ihnen.
