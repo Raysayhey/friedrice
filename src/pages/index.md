@@ -55,12 +55,12 @@ sections:
     title: Unsere Schwerpunkte 
     type: featuresblock
   - actions:
-      - label: Succeed Today
+      - label: Kontakt
         url: /contact
     component: CtaBlock
     section_id: call-to-action
-    subtitle: Contact us to work with a results-driven digital internet marketing agency
-    title: READY TO GROW YOUR BUSINESS?
+    subtitle: Kontaktieren sie uns für eine erste Standortbestimmung
+    title: Marketing für Ihre Firma?
     type: ctablock
   - bg: gray
     component: PostsBlock
