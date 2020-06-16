@@ -19,7 +19,7 @@ Speziell in der Schweiz, wo alles teuer ist, wollen wir mit unserem Angebot für
 
 Durch Social Media und andere Kanäle gibt es tolle neue Wege Kunden zu finden und wir sind überzeugt, dass mit ein bisschen Hilfe jeder selbst Marketing betreiben kann ohne viel Geld dafür auszugeben.
 
-Für uns is Marketing ein Spiel, bei welchem man die Spielregeln beachten muss, es aber viel mehr auf Kreativität und Passion ankommt, um Kunden zu gewinnen. 
+Für uns ist Marketing ein Spiel, bei welchem man die Spielregeln beachten muss, es aber viel mehr auf Kreativität und Passion ankommt, um Kunden zu gewinnen. 
 
 Wir sind seit jungen Jahren mit Werbung konfrontiert und haben gelernt diese Auszublenden. Darum behaupten wir, ist eine Marketing-Kampagne im Digitalen Marketing Bereich meistens nur dann fruchtbar, wenn man etwas findet, was wirklich zieht und bei dem Kunden effektives Interesse weckt. 
 
