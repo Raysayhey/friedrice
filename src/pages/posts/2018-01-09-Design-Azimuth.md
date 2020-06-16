@@ -26,6 +26,8 @@ Da wir der Kunde selbst sind haben wir unserer Passion von Kreativer Gestaltung 
 Für diese Webseite haben wir die maximale Anwendung von "Markdown" ausprobiert. Auch dieser Text wurde mit Markdown Syntax entwickelt.
 Es gibt bereits unzählige Blog Posts zu Markdown falls es Sie interessiert ist es nur eine Google Suche entfernt.
 
-Unsere Lieblingsbeschäftigung im Digitalen Marketing Bereich ist Growth Hacking da es uns die grösste Kreativität ermöglicht und wir unseren Kunden, leider nicht in allen Fällen, eine Erweiterung des Marketing Horizontes ermöglichen.  
+DM-Block hat ein "Lighthouse Score" von 93 - wir wollen eine 99 un werden stetig daran weiterentwickeln, bis wir dies erreichen.
+
+
 
 
