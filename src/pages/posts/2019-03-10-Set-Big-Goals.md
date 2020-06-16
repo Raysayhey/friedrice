@@ -4,8 +4,7 @@ subtitle: Digital Marketing einfach besser
 date: 2019-08-07T22:00:00.000Z
 thumb_img_path: images/12_thumb.jpg
 content_img_path: images/12.jpg
-excerpt: Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+excerpt: ""
 template: post
 ---
 DM_Block ist unser Hobby.
