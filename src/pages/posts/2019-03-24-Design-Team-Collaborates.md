@@ -1,16 +1,25 @@
 ---
-title: How Our Design Team Collaborates
-date: '2019-03-24'
+title: Unsere Arbeit
+date: 2019-03-24
 thumb_img_path: images/11_thumb.jpg
 content_img_path: images/11.jpg
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+  accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
 template: post
 ---
+Wir sind ein riesiger Fan von "remote work" .
+Das heisst man kann von Überall aus arbeiten, sei das Zuhause oder in einem Kaffee oder während dem Reisen.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Mit den richtigen Werkzeugen ist der Laptop das einzige Werkzeug welches man braucht.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Wir benutzen Kollaborationswerkzeuge wie GitHub und Figma, wobei wir alle Alles können aber unsere Vorlieben haben, was genau wir machen wollen.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Einige sind lieber mit Code beschäftigt, (Webseiten & mobile Apps) Andere haben lieber die Kreativen Aspekte vom Design oder entwickeln Marketing Kampagnen.
+
+Um eine richtige Kampagne auszuarbeiten benötigt man ein gründliches Verständnis von den Kunden und dem Geschäft bzw. Produkt / Service. Ohne dieses Verständnis kann man nur schwierig etwas aufziehen, das auch wirklich funktioniert und nachhaltig wirkt.   
+
+Um den Kunden eine tolle Erfahrung und ein richtiges Ergebnis zu bieten studieren wir zuerst die Umstände, die Konkurrenz und den Auftraggeber selbst. Wir setzen uns mit dem Kunden zusammen für einen Kaffee oder besprechen mit einem Telefonat was das Ziel ist, welches wir erreichen erarbeiten sollen.
+
+Nur falls uns gefällt was wir machen sollen nehmen wir den Auftrag an und erarbeiten verschiedene Möglichkeiten das Ziel zu erreichen. Wir setzten dann je nach Budget eine oder mehrere Kampagnen um und helfen dem Kunden beim Aufbau der eigenen Fähigkeiten das Marketing in die Hand zu nehmen.
+
+Wir bieten keine Kurse an für Digitales Marketing - für das gibt es genug Youtube Videos und Blogs.
