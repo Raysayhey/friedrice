@@ -2,8 +2,8 @@
 title: Was ist DM-Block
 subtitle: Digital Marketing einfach besser
 date: 2019-08-07T22:00:00.000Z
-thumb_img_path: /images/logob.png
-content_img_path: images/12.jpg
+thumb_img_path: /images/mand_web.png
+content_img_path: ""
 excerpt: ""
 template: post
 ---
