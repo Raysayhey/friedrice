@@ -66,7 +66,9 @@ Mit den neuen Möglichkeiten durch das Internet Kunden zu finden wurde eine neue
 \
 Natürlich ist Social Media nicht unbedingt der Ort wo man Firmen als Hauptbestandteil sieht, ist aber nach dem Businessmodell dieser Apps genau auf Firmen ausgerichtet, da dort die Kunden sind.
 
-Social Media ist wie ein StartUp ein Marathon und kein Sprint. Man benötigt eine gute Portion Ausdauer um sich etwas aufzubauen, dass Früchte trägt. Wenn Sie am erstellen von Beiträgen keinen Spass haben, dann würden wir Ihnen nicht empfehlen selbst dieses Spiel zu leiten. Sie können es aber auch nicht komplett aus den Händen geben. Im Bezug zu unserer Tätigkeit: Wir sind keine Social Media Manager. Wir haben kein Interesse daran Ihnen diese Arbeit abzunehmen aber wir helfen gerne ihr Verständnis auszuprägen und Ihnen mit dem erstellen von Medien zu helfen.\
+Social Media ist wie ein StartUp ein Marathon und kein Sprint. Man benötigt eine gute Portion Ausdauer um sich etwas aufzubauen, dass Früchte trägt. Wenn Sie am erstellen von Beiträgen keinen Spass haben, dann würden wir Ihnen nicht empfehlen selbst dieses Spiel zu leiten. Sie können es aber auch nicht komplett aus den Händen geben.
+
+ Im Bezug zu unserer Tätigkeit: Wir sind keine Social Media Manager. Wir haben kein Interesse daran Ihnen diese Arbeit abzunehmen aber wir helfen gerne ihr Verständnis auszuprägen und Ihnen mit dem erstellen von Medien zu helfen.\
 \
 Wie bereits angesprochen ist die beste Werbung gratis Werbung. \
 Durch Social Media wurde der Mund zu Mund Werbungskanal auf ein eine disruptive Art verändert und das würden wir Ihnen empfehlen zu nutzen. \
@@ -74,4 +76,6 @@ Durch Social Media wurde der Mund zu Mund Werbungskanal auf ein eine disruptive 
 Nicht aber durch wirkliche Werbung, sondern durch die Story und ihre verschiedenen Facetten. Das kann ihre Mission sein oder ihre Passion, wie auch immer Sie es nennen möchten. Positive sind in den meisten Fällen der richtige Weg, ausser Sie kennen Ihre Zielkunden und Sie kennen das Game.\
 \
 Denn das Problem an Social Media ist die Überflutung. Und nur wer etwas Virales kreiert hat wirklich die Aufmerksamkeit für mehr als nur ein paar Sekunden. \
-Darum gibt es auch Personen die dieses Game studieren und bezahlt werden sich etwas auszudenken, dass wirklich Impact hat.
+Darum gibt es auch Personen die dieses Game studieren und bezahlt werden sich etwas auszudenken, dass wirklich Impact hat. 
+
+Bzw. dafür gibt es uns.
