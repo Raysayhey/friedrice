@@ -11,7 +11,7 @@ DM-Block ist ein "Zweig" der <a href=https://www.block-lab.ch> Block Lab GmbH </
 
 Wir entwickeln mehrheitlich Webseiten und Mobile Apps bieten aber für Kunden auch Digitales Marketing an.  
 
-Diese Webseite wurde mit <a href=https://www.https://www.gatsbyjs.org/> GatsbyJS</a> entwickelt. GatsbyJS ermöglicht es uns eine Webseite mit Code (react-framework) zu erstellen und die Daten von einem CMS einzuspeisen. In diesem Fall haben wir das CMS von Netlify verwendet um saugen die Daten via GraphQL ein. Durch diese Methode haben wir die Möglichkeit unser SEO ohne Einschränkungen zu optimieren und müssen die Webseite nicht verändern um neue Blog posts o.a. zu entwickeln.  
+Diese Webseite wurde mit <a href=https://www.https://www.gatsbyjs.org/> GatsbyJS</a> entwickelt. Gatsby ermöglicht es uns eine Webseite mit Code (react-framework) zu erstellen und die Daten von einem CMS einzuspeisen. In diesem Fall haben wir das CMS von Netlify verwendet um saugen die Daten via GraphQL ein. Durch diese Methode haben wir die Möglichkeit unser SEO ohne Einschränkungen zu optimieren und müssen die Webseite nicht verändern um neue Blog posts o.a. zu entwickeln.  
 
 Das Design erstellen wir in den meisten Fällen mit <a href=https://www.figma.com> Figma, </a> da es die Kollaboration einfacher gestaltet als andere Design tools.  
 
@@ -27,7 +27,3 @@ Für diese Webseite haben wir die maximale Anwendung von "Markdown" ausprobiert.
 Es gibt bereits unzählige Blog Posts zu Markdown falls es Sie interessiert ist es nur eine Google Suche entfernt.
 
 DM-Block hat ein "Lighthouse Score" von 93 - wir wollen eine 99 un werden stetig daran weiterentwickeln, bis wir dies erreichen.
-
-
-
-
