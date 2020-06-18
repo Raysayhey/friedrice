@@ -79,3 +79,29 @@ Denn das Problem an Social Media ist die Überflutung. Und nur wer etwas Virales
 Darum gibt es auch Personen die dieses Game studieren und bezahlt werden sich etwas auszudenken, dass wirklich Impact hat. 
 
 Bzw. dafür gibt es uns.
+
+#### Digital Marketing
+
+Neben Social Media Marketing gibt es noch ein paar andere Wege wie Sie an Kunden kommen aber diese sind in den meisten Fällen mit kosten verbunden. 
+
+\- Search Engine Optimization (SEO)
+
+\- Content Marketing
+
+\- Pay Per Click (PPC)
+
+\- Affiliate Marketing
+
+\- Email Marketing
+
+\- Sponsored Content
+
+Jede Dieser Kategorien hat ihre eigenen Vor- und Nachteile und ist mehrheitlich auf Ihre Kunden-Demografie zurückzuführen was produktiv sein könnte.
+
+Einige dieser Channels sind wirklich effektiv falls es richtig durchgeführt wird aber bei digital Marketing zählt mehr das Gesamtpaket.
+
+Gratulation wenn Sie hier noch lesen.
+
+Werbung:
+
+Wir haben keine 5 Minuten um herauszufinden wie Ihr Digitales Profil aussieht weil alles was wir uns damit beschäftigen im Internet herumliegt. Darum können wir Ihnen auch gratis einen Rapport erstellen.
