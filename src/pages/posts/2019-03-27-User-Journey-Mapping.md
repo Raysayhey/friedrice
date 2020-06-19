@@ -48,6 +48,9 @@ Das schwierigste gut hinzubekommen ist der Text. Das schwierigste zu produzieren
 >
 > Ihre Videos sprechen für sich selbst.
 
+Natürlich können Sie auch ein Podcast zu Werbungszwecke verwenden, aber wir würden Ihnen davon abraten.
+
+
 ### Psychologie & Sentiment
 
 Die Werbung beinhaltet immer einen Psychologischen Aspekt. 
