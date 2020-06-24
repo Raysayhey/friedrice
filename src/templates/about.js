@@ -54,7 +54,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/336/163/715/honeycombs-abstract-minimalism-simple-background-wallpaper-thumb.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_GH.jpg?raw=true)`
                           }}
                         ></div>
                         <h1 id="demo1">This is a title</h1>

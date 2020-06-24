@@ -1,7 +1,7 @@
 ---
 title: Über uns
 subtitle: >-
-  Wir sind eine digital marketing Agentur aus Zürich. Spezialisiert auf Growth Hacking und alles was sonst noch dazu gehört
+  Wir sind eine Digital Marketing Agentur aus Zürich. Spezialisiert auf Growth Hacking.
 img_path: /images/about.png
 menus:
   main:
