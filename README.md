@@ -1,4 +1,1 @@
-todo
-
-team
-about page
+website for dm-block 

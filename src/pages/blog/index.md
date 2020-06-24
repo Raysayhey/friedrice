@@ -9,4 +9,3 @@ menus:
     weight: 2
 template: blog
 ---
-

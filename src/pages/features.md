@@ -43,6 +43,13 @@ sections:
           Bei uns geht es mehr um eine spiezialisierte Kampagne mit gezieltem Fokus und kreativen Ansätzens
         image: /images/GH2.png
         title: Growth Hacking 
+
+      #  - content: >-
+      #     Growth Hacking wird oft als Begriff verwendet für die verschiedenen Sektionen des Digitalen Marketings. 
+      #     Bei uns geht es mehr um eine spiezialisierte Kampagne mit gezieltem Fokus und kreativen Ansätzens
+      #   image: /images/GH2.png
+      #   title: Growth Hacking 
+        
     
     section_id: dm-services
     subtitle: >-
