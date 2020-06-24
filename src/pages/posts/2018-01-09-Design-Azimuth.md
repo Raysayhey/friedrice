@@ -1,6 +1,6 @@
 ---
 title: "Hinter den Kulissen - DM-Block.ch "
-subtitle: Eine Fall Studie von dieser Webseite
+subtitle: Eine Fall Studie von DM-Block.ch
 date: 2019-10-29T23:00:00.000Z
 thumb_img_path: images/6_thumb.jpg
 content_img_path: images/6.jpg
