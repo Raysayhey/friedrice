@@ -11,9 +11,9 @@ In diesem Fall nennt man Wordpress ein "headless CMS" - es wird nur zur Datenspe
 Dies erlaubt die bestehenden Daten komplett zu übernehmen indem man sie durch GraphQL in die neue Webseite einspeist. 
 Danach wird die Webseite bei jedem neuen Post oder Bild - je nachdem was man einstellt - automatisch neu gebaut und die neuen Daten hineingezogen. Dies erlaubt es den Inhabern der Webseite die Daten selbst zu verwalten, ohne dass man in den Code eingreifen muss.
 
-Ein weiterer riesiger Vorteil ist die Gestaltung von SEO - speziell eher Technisches SEO d.h. Webseiten Ladezeiten-Optimierung ist mit Wordpress selbst ein Problem und wird mit Gatsbys gelöst. 
+Ein weiterer riesiger Vorteil ist die Gestaltung von SEO - speziell eher Technisches SEO z.b. Webseiten Ladezeiten-Optimierung ist ein Problem das mit GatsbyJS gelöst werden kann. 
 
-Die Tools wie Yoast-SEO sind für Wordpress Seiten ein muss, sind aber doch mehr Allgemein angelegt um spezifisch den Suchmaschinen die richtigen Informationen einzuspeisen. 
+Die Tools wie Yoast-SEO sind für Wordpress Seiten ein muss, sind aber doch sehr Allgemein angelegt um den Suchmaschinen die richtigen Informationen einzuspeisen. 
 
 ### Die Vor- und Nachteile
 
@@ -25,9 +25,12 @@ Der Hauptvorteil der Erstellung einer statischen Website mit Gatsby ist die Gesc
 Mit einer statischen Website erhalten Sie auch zusätzliche Sicherheit. Da es sich um einen Haufen statischer Dateien handelt, gibt es nicht viel zu hacken. Außerdem können Sie die statischen Dateien jederzeit neu generieren, wenn sie verloren gehen.
 
 #### Server-Kosten: 
-Das Hosten einer dynamischen Website erfordert, dass Ihr Server mit Ihrem Technologiestack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senkt.
+Das Hosten einer dynamischen Website erfordert, dass Ihr Server mit Ihrem Technologiestack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senken kann.
 
 Die Generierung der statischen Seite mit GatsbyJS bei jeder Änderung erfordert JavaScript, was auch auf einem lokalen Rechner erfolgen kann, bevor die statischen Dateien auf die Seite übertragen werden.
+
+Damit gemeint ist, dass Sie auf Ihrem Computer Wordpress laufen lassen können und die Webseite. Nach einer Veränderung generieren Sie die statische Webseite aufIhrem Computer und laden Sie auf den Server, wo Sie die Webseite Hosten. 
+Es gibt gratis Automatisierungen für diese Prozesse (GitHub, Netlify etc.)
 
 #### Warum Gatsby vermeiden?
 Kein Einbau dynamischer Inhalte: Wenn Sie Gatsby verwenden möchten, müssen Sie die Steuerung und Bereitstellung dynamischer Inhalte überdenken, d.h. Sie müssen eine Mischung aus statischem und dynamischem Inhalt erstellen, um dies zu erreichen 
@@ -36,7 +39,8 @@ Zum Beispiel müssen Kommentare extern über einen Dienst wie Disqus gehostet we
 
 Kontaktformulare müssten auch über einen externen Partner wie Google Forms umgeleitet werden. Kurz gesagt, Sie würden die direkte Kontrolle über solche dynamischen Inhalte verlieren, da ihre Antworten nicht auf Ihren Servern gespeichert werden.
 
-Häufige "Builds" sind unpraktisch: Auch statische Websites haben das Problem häufiger Neukonvertierungen. Jede Änderung, die Sie an Ihrer Seite vornehmen, wird erst dann reflektiert, wenn Sie die Seiten neu generiert und erneut auf den Server geladen haben. Dafür benutzen wir "Hooks" welche automatisch die Seite bei neuem Content neu bauen. Dies ist in den meisten Fällen auch komplett gratis - ausser man reizt diese Funktion aus und generiert die Seite 3 mal neu am Tag.
+Häufige "Builds" sind unpraktisch: Auch statische Websites haben das Problem mit häufigem Ausbau. Jede Änderung, die Sie an Ihrer Seite vornehmen, wird erst dann reflektiert, wenn Sie die Seiten neu generiert und erneut auf den Server geladen haben. 
+Wir bei DM-Block benutzen "Hooks", welche automatisch die Seite bei neuem Content neu bauen. Dies ist in den meisten Fällen auch komplett gratis - ausser man reizt diese Funktion aus und generiert die Seite 3 mal neu am Tag.
 
 Technisches Fachwissen: Gatsby baut auf ReactJS und GraphQL auf. Daher sind einige Kenntnisse von JavaScript und eine Grundidee von GraphQL erforderlich, um mit Gatsby zu arbeiten und eine Webseite mit Gatsby zu erstellen.
 
@@ -51,8 +55,6 @@ Die Schwierigkeiten beim Entwickeln ist das ausarbeiten der Texte und Bilder, we
 
 Natürlich ist ales immer einfacher gesagt als getan und bei grösseren Webseiten hat man um einiges länger an der Entwicklung als wenn man mit Wordpress die Webseite gestaltet.
 Dafür hat man im Endergebnis aber auch eine gute Webseite, welche den neusten Standards entspricht und sich vernünftiger anpassen und ausbauen lässt.
-
-
 
 
 
