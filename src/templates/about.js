@@ -47,21 +47,21 @@ export default class Project extends React.Component {
                   </li>
 
 
-                                   {/* 2     */}
+                                   {/* 2  href=""   */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="" >
+                      <a class="hexLink"  >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_gh_25.jpg?raw=true)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/495/241/90/acrylic-texture-design-color-wallpaper-preview.jpg)`
                           }}
                         ></div>
-                        {/* <h1 id="demo1">This is a title</h1> */}
+                        {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
@@ -69,18 +69,18 @@ export default class Project extends React.Component {
                                     {/* 3 */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/155/551/641/ubuntu-abstract-gradient-gimp-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/106/906/355/pattern-digital-art-triangle-wallpaper-preview.jpg)`
                           }}
                         ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
@@ -106,18 +106,18 @@ export default class Project extends React.Component {
                                     {/* 2 Linie s 1.  */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/246/99/675/texture-digital-art-pattern-artwork-wallpaper-preview.jpg)`
                           }}
                         ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
@@ -140,20 +140,20 @@ export default class Project extends React.Component {
                     </div>
                   </li>
 
-                                    {/* Linie 2   s 3.  */}
+                                    {/* Linie 2   s 3. href="goo.com"   */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/533/463/577/abstract-texture-simple-simple-background-wallpaper-thumb.jpg)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/517/4/59/razer-phone-2-abstract-colorful-hd-wallpaper-preview.jpg)`
                           }}                        ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
@@ -176,37 +176,37 @@ export default class Project extends React.Component {
                     </div>
                   </li>
 
-                                    {/*  3. Linie s 2.    */}
+                                    {/*  3. Linie s 2.  href="goo.com"  */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/513/292/11/gradient-abstract-hd-4k-wallpaper-thumb.jpg)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/320/160/1019/razer-phone-2-abstract-colorful-hd-wallpaper-preview.jpg)`
                           }}                        ></div>
-                        <h1 id="demo1">Titiel unso</h1>
+                        {/* <h1 id="demo1">Titiel unso</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
-                                    {/*  3. Linie s 3.  */}
+                                    {/*  3. Linie s 3. href="goo.com" */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="goo.com">
+                      <a class="hexLink" >
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/204/759/755/artwork-digital-art-abstract-simple-background-wallpaper-thumb.jpg)`
+                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/913/752/910/digital-art-blue-leaves-pattern-wallpaper-preview.jpg)`
                           }}                        ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
-                        </p>
+                        </p> */}
                       </a>
                     </div>
                   </li>
