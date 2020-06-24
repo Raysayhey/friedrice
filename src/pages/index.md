@@ -29,7 +29,7 @@ sections:
         title: Analyse
       - actions:
           - label: Mehr dazu
-            url: /what-we-do
+            url: /features
         content: "Wir richten Ihnen die Tools ein, damit Sie selbstständig Ihr Marketing betreiben können
         \r\n\n\r
         Unser Ziel ist, dass Sie wissen, wie Sie selbst Ihr Marketing in die Hand nehmen können und dadurch kosten sparen.
@@ -40,7 +40,7 @@ sections:
         title: Automatisierung
       - actions:
           - label: Mehr dazu
-            url: /what-we-do
+            url: /features
         content: "
         Unsere Lieblingsbeschäftigung ist das gestalten von Digital Marketing Kampagnen
         \r\n\n\r 

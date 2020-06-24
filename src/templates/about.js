@@ -47,10 +47,10 @@ export default class Project extends React.Component {
                   </li>
 
 
-                                   {/* 2  */}
+                                   {/* 2     */}
                   <li class="hex">
                     <div class="hexIn">
-                      <a class="hexLink" href="https://friedrice-b409a.netlify.app/posts/2018-01-09-Design-Azimuth/">
+                      <a class="hexLink" href="" >
                         <div
                           class="img"
                           style={{
