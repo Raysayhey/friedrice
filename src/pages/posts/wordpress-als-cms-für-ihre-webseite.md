@@ -1,6 +1,7 @@
 ---
 title: Wordpress als CMS für Ihre Webseite
 date: 2020-06-02T10:33:38.127Z
+thumb_img_path: /images/gatsby-wordpress.png
 template: post
 ---
 Wordpress in Verbindung mit GatsbyJS ist eine Möglichkeit um die bestehende Wordpress Webseite zu verbessern. 
