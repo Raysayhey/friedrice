@@ -14,18 +14,21 @@ Ein weiterer riesiger Vorteil ist die Gestaltung von SEO - speziell eher Technis
 
 Die Tools wie Yoast-SEO sind für Wordpress Seiten ein muss, sind aber doch mehr Allgemein angelegt um spezifisch den Suchmaschinen die richtigen Informationen einzuspeisen. 
 
-Hier Die Vor- und Nachteile
+### Die Vor- und Nachteile
 
 
-Schnelle Websites: Der Hauptvorteil der Erstellung einer statischen Website mit Gatsby ist die Geschwindigkeit, die Web-Entwickler seit Googles Ankündigung, die Geschwindigkeit von Websites für das Ranking in der Websuche zu nutzen, zu optimieren versuchen. Die Ladezeiten wirken sich auch auf Seitenaufrufe und Konversionen aus. Es wird geschätzt, dass eine Verzögerung von einer Sekunde bei der Ladezeit der Website zu einer Verringerung der Konversionen um 7% führen kann.
+#### Schnelle Websites: 
+Der Hauptvorteil der Erstellung einer statischen Website mit Gatsby ist die Geschwindigkeit, die Web-Entwickler seit Googles Ankündigung, die Geschwindigkeit von Websites für das Ranking in der Websuche zu nutzen, zu optimieren versuchen. Die Ladezeiten wirken sich auch auf Seitenaufrufe und Konversionen aus. Es wird geschätzt, dass eine Verzögerung von einer Sekunde bei der Ladezeit der Website zu einer Verringerung der Konversionen um 7% führen kann.
 
-Sicherheit: Mit einer statischen Website erhalten Sie auch zusätzliche Sicherheit. Da es sich um einen Haufen statischer Dateien handelt, gibt es nicht viel zu hacken. Außerdem können Sie die statischen Dateien jederzeit neu generieren, wenn sie verloren gehen.
+#### Sicherheit: 
+Mit einer statischen Website erhalten Sie auch zusätzliche Sicherheit. Da es sich um einen Haufen statischer Dateien handelt, gibt es nicht viel zu hacken. Außerdem können Sie die statischen Dateien jederzeit neu generieren, wenn sie verloren gehen.
 
-Server-Kosten: Das Hosten einer dynamischen Website erfordert, dass Ihr Server mit Ihrem Technologiestack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senkt.
+#### Server-Kosten: 
+Das Hosten einer dynamischen Website erfordert, dass Ihr Server mit Ihrem Technologiestack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senkt.
 
-Die Generierung der statischen Site mit Gatsby bei jeder Änderung erfordert JavaScript, was auch auf einem lokalen Rechner erfolgen kann, bevor die statischen Dateien auf die Seite übertragen werden.
+Die Generierung der statischen Seite mit GatsbyJS bei jeder Änderung erfordert JavaScript, was auch auf einem lokalen Rechner erfolgen kann, bevor die statischen Dateien auf die Seite übertragen werden.
 
-Warum Gatsby vermeiden?
+#### Warum Gatsby vermeiden?
 Kein Einbau dynamischer Inhalte: Wenn Sie Gatsby verwenden möchten, müssen Sie die Steuerung und Bereitstellung dynamischer Inhalte überdenken, d.h. Sie müssen eine Mischung aus statischem und dynamischem Inhalt erstellen, um dies zu erreichen 
 
 Zum Beispiel müssen Kommentare extern über einen Dienst wie Disqus gehostet werden.
@@ -46,7 +49,8 @@ Obwohl Wordpress durch die vielen Plugins ein reiches Ökosystem hat, kommt es n
 Die Schwierigkeiten beim Entwickeln ist das ausarbeiten der Texte und Bilder, welche direkt im Code einzubauen sind und was man dynamisch vom Wordpress CMS o.a. hinein laden möchte.
 
 Natürlich ist ales immer einfacher gesagt als getan und bei grösseren Webseiten hat man um einiges länger an der Entwicklung als wenn man mit Wordpress die Webseite gestaltet.
-Dafür hat man im Endergebnis aber auch eine Vernünftige Webseite, welche den neusten Standards entspricht und sich vernünftiger anpassen lässt.
+Dafür hat man im Endergebnis aber auch eine gute Webseite, welche den neusten Standards entspricht und sich vernünftiger anpassen und ausbauen lässt.
+
 
 
 
