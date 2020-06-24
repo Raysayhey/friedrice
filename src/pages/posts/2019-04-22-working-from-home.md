@@ -1,26 +1,25 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2019-04-22'
+title: Remote Work _ Vor- und Nachteile
+date: 2019-04-22T00:00:00.000Z
 thumb_img_path: images/9_thumb.jpg
 content_img_path: images/9.jpg
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: Work at home or wherever you want
 template: post
 ---
+**Von Zuhause aus Arbeiten ist nicht immer das einfachste** 
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
 
-## Advantages and Disadvantages 
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+## Vor- und Nachteile
+1. Arbeiten aus der Ferne ermöglicht eine bessere Work-Life-Balance
+Für viele Unternehmen wäre es selbst vor einigen Jahrzehnten noch fast unmöglich gewesen, aus der Ferne zu arbeiten. Ohne die richtige Technologie musste ein Mitarbeiter ins Büro gehen, um seine Arbeit zu erledigen. Die Kehrseite dieser technologischen Fortschritte? Verschwommene Grenzen zwischen Arbeit und Privatleben. Die Aufrechterhaltung einer gesunden Work-Life-Balance ist also für so viele Angestellte oberstes Gebot. Die Fähigkeit, diese beiden Welten miteinander in Einklang zu bringen, ist zum Schlüssel geworden, um sich bei der Arbeit glücklicher und produktiver zu fühlen. Die Einsparung von Zeit, die sonst für einen langen Arbeitsweg aufgewendet werden müsste, ermöglicht den Mitarbeitern eine bessere Work-Life-Balance und bringt mehr Stunden zurück in ihren Alltag. 
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+2. Entfernte Mitarbeiter haben mehr Freiheit
+Es ist klar, dass die Vorteile der Fernarbeit dazu beitragen, die Mitarbeiter glücklich, engagiert und erfüllt zu halten. Laut Gallups Bericht "State of the American Workplace" (Zustand des amerikanischen Arbeitsplatzes) "Die optimale Steigerung des Engagements tritt ein, wenn die Mitarbeiter [etwa] drei bis vier Tage außerhalb des Standorts arbeiten". Müssen Sie eine Reise quer durch das Land unternehmen, um Ihre Familie zu besuchen? Oder nachmittags zu Hause sein, um dem Fußballspiel eines Kindes beizuwohnen? Ein herkömmlicher Angestellter müsste dafür eine Freistellung beantragen. Aber ein Mitarbeiter aus der Ferne kann immer noch von zu Hause oder von einem regionalen Hauptquartier am Zielort einchecken und bei Bedarf einchecken. Von der Arbeit von zu Hause über Reisen ins Ausland bis hin zu einem oder drei Tagen in der Woche im Büro genießen die Mitarbeiter die Freiheit der Fernarbeit.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+3. Fernarbeit fördert das Wohlbefinden der Mitarbeiter
+Ohne Pendeln, ohne Eile beim Mittagessen und ohne lange Arbeitszeiten im Büro, fernab von Familie oder Freunden, kann das Arbeiten aus der Ferne die Gesundheit und das Wohlbefinden der Mitarbeiter verbessern, indem es den Stress verringert und die Belastung potenziell kranker Mitarbeiter begrenzt. Aber Arbeitgeber sollten einen Wellness-Plan am entfernten Arbeitsplatz nicht auslassen; die Einbeziehung in betriebliche Wellnessprogramme, wie z.B. den Zugang zum Fitnessstudio, ist ebenso wichtig für diejenigen mit einer flexiblen Arbeitszeit.
 
-## Types Of Work
+4. Fernarbeit ist gleichbedeutend mit einer Steigerung der Produktivität
+Die Arbeitgeber beschäftigen sich heute mit einer existentiellen Frage der Zeit: "Wenn ich meine Angestellten nicht arbeiten sehe, arbeiten sie dann?" Die Fähigkeit der Arbeitgeber, ihren Teams zu vertrauen, auch wenn sie außerhalb des Büros arbeiten, könnte der Schlüssel zu mehr Produktivität als je zuvor sein. Die Daten zeigen, dass die Produktivität an erster Stelle steht, wenn die Mitarbeiter in der Lage sind, die zusätzlichen Kaffeepausen, einen langen Arbeitsweg und alle anderen Ablenkungen zu überspringen, um sich auf ihre Arbeit zu konzentrieren. In der zweijährigen Studie der Stanford University zur Arbeitsproduktivität aus der Ferne folgten die Forscher beispielsweise 500 Mitarbeitern, nachdem sie sie in "ferne" und "traditionelle" Arbeitsgruppen unterteilt hatten. Die Ergebnisse der Fernarbeitsgruppen zeigten nicht nur eine Steigerung der Arbeitsproduktivität, die der eines ganzen Arbeitstages entspricht, sondern auch weniger Krankheitstage und eine 50-prozentige Verringerung der Mitarbeiterfluktuation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
-
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.

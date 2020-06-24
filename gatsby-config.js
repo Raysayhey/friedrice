@@ -43,6 +43,12 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }
+        },
+        {
+            resolve: 'gatsby-plugin-drift',
+            options: {
+                appId: 'uc6wdr7xa52y',
+            },
+        },
     ]
 };

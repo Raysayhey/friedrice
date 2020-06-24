@@ -1,20 +1,25 @@
 ---
-title: Why You Should Set Big Goals
-date: '2019-03-10'
-thumb_img_path: images/12_thumb.jpg
-content_img_path: images/12.jpg
-excerpt: >-
-  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-  turpis egestas.
+title: Was ist DM-Block
+subtitle: Digital Marketing einfach besser
+date: 2019-08-07T22:00:00.000Z
+thumb_img_path: /images/mand_web.png
+content_img_path: ""
+excerpt: ""
 template: post
 ---
+DM_Block ist unser Hobby.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam maximus mauris sagittis, iaculis diam ac, ultrices risus. Aliquam finibus, ipsum eget ultricies imperdiet, arcu diam suscipit urna, eu bibendum tortor tellus vel risus. Praesent quis scelerisque velit. Curabitur varius erat non dignissim porta. Duis viverra sapien a metus semper, et porttitor dolor convallis. Nulla eu dolor volutpat, mollis arcu ut, semper ex. Morbi ultricies, quam et ullamcorper mattis, elit dolor facilisis dui, non consectetur erat elit eu sapien. Duis scelerisque ante iaculis, accumsan mi vel, tempus libero. Fusce quis ipsum in sapien consequat tempor. Duis varius blandit neque quis tempor. Sed sollicitudin ante vitae lectus feugiat tempus. Ut mauris ex, venenatis a vestibulum nec, ullamcorper a erat. Vivamus leo ipsum, porta in iaculis sit amet, euismod non mi.
+Unsere Lieblingsbeschäftigung im Digitalen Marketing Bereich ist Growth Hacking da es uns die grösste Kreativität ermöglicht und wir unseren Kunden, leider nicht in allen Fällen, eine Erweiterung des Marketing Horizontes ermöglichen.  
 
-Curabitur sed tellus eu felis convallis cursus at vitae neque. Phasellus sem nulla, ornare sit amet augue quis, consectetur lobortis diam. Etiam in egestas orci. Curabitur scelerisque id ligula id rutrum. Maecenas pharetra sapien et hendrerit facilisis. Vestibulum finibus mauris et ultricies porta. Praesent laoreet mauris elit, a semper risus euismod at. Pellentesque ullamcorper augue augue, eget porta nisl volutpat nec. Mauris porttitor commodo tortor eu tincidunt. Ut ut enim iaculis, aliquam augue ut, cursus tortor.
+Wir erlauben uns nur Projekte anzunehmen die uns gefallen. Wir sind nicht auf Kunden angewiesen, da wir nicht dem Geld nachjagen wollen.
 
-Cras interdum commodo commodo. Nunc condimentum, eros id consectetur tincidunt, metus ligula venenatis urna, sit amet pharetra dui purus sed tellus. Suspendisse finibus gravida risus, vel sodales nisl fringilla consequat. Aliquam sit amet mollis lorem. Suspendisse dignissim mi tortor, quis iaculis nulla fermentum ut. Nunc laoreet augue vitae aliquet aliquet. Praesent dapibus at dui sit amet interdum. Fusce finibus risus in nibh ultricies, a bibendum lacus pulvinar.
+Wir haben es satt, dass Digital Marketing Agenturen einen schlechten Job liefern und auch noch zu viel Geld dafür verlangen.
 
-Proin viverra, ex ut ullamcorper finibus, purus odio porttitor neque, in blandit lectus massa vel massa. Etiam vel mauris ligula. Sed dignissim tellus vel ex tincidunt, eget tempus metus lobortis. In ex felis, fermentum ut ultrices in, consequat ut justo. Etiam ullamcorper, risus nec facilisis porta, ex quam mattis nisi, id consequat turpis massa non dolor. Vestibulum lectus ante, scelerisque quis tempor et, mattis eu justo. Sed ante orci, feugiat aliquet malesuada sed, efficitur ac ex. Morbi ex nisi, tempor eu congue quis, ultrices id justo. Etiam urna libero, porttitor at imperdiet at, ultricies ac erat. Pellentesque est nibh, volutpat nec tempus et, luctus vel urna. Cras faucibus dolor feugiat velit convallis, sit amet consectetur eros tempor. Integer mi elit, semper sed facilisis vel, convallis ut turpis.
+Speziell in der Schweiz, wo alles teuer ist, wollen wir mit unserem Angebot für frischen Wind sorgen und unserer Kreativität freien lauf lassen.
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+Durch Social Media und andere Kanäle gibt es tolle neue Wege Kunden zu finden und wir sind überzeugt, dass mit ein bisschen Hilfe jeder selbst Marketing betreiben kann ohne viel Geld dafür auszugeben.
+
+Für uns ist Marketing ein Spiel, bei welchem man die Spielregeln beachten muss, es aber viel mehr auf Kreativität und Passion ankommt, um Kunden zu gewinnen. 
+
+Wir sind seit jungen Jahren mit Werbung konfrontiert und haben gelernt diese Auszublenden. Darum behaupten wir, ist eine Marketing-Kampagne im Digitalen Marketing Bereich meistens nur dann fruchtbar, wenn man etwas findet, was wirklich zieht und bei dem Kunden effektives Interesse weckt. 
+

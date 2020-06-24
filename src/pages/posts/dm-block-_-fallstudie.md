@@ -1,10 +1,8 @@
 ---
-title: "Hinter den Kulissen - DM-Block.ch "
-subtitle: Eine Fall Studie von DM-Block.ch
-date: 2019-10-29T23:00:00.000Z
-thumb_img_path: images/6_thumb.jpg
-content_img_path: images/6.jpg
-excerpt: ""
+title: DM-Block _ Fallstudie
+subtitle: "Blick hinter die Kulissen "
+date: 2020-06-17T10:29:51.533Z
+thumb_img_path: /images/smoke_vio1.png
 template: post
 ---
 DM-Block ist ein "Zweig" der <a href=https://www.block-lab.ch> Block Lab GmbH </a>
