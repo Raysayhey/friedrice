@@ -13,9 +13,9 @@ export default class Project extends React.Component {
           <div className="inner">
             <article className="post project post-full">
               <header className="post-header inner-small">
-                <h1 className="post-title line-top">
+                {/* <h1 className="post-title line-top">
                   {_.get(this.props, "pageContext.frontmatter.title")}
-                </h1>
+                </h1> */}
                 {_.get(this.props, "pageContext.frontmatter.subtitle") && (
                   <div className="post-subtitle">
                     {htmlToReact(
@@ -54,10 +54,10 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_GH.jpg?raw=true)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_gh_25.jpg?raw=true)`
                           }}
                         ></div>
-                        <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
                           Some sample text about the article this hexagon leads
                           to
