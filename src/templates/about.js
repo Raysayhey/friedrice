@@ -3,7 +3,7 @@ import _ from "lodash";
 
 import { Layout } from "../components/index";
 import { htmlToReact } from "../utils";
-import Img1 from "../../static/images/9.jpg"
+// import Img1 from "../../static/images/9.jpg"
 
 export default class Project extends React.Component {
   render() {

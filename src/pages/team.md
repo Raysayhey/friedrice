@@ -1,8 +1,8 @@
 ---
-title: Our Team
+title: Team
 menus:
   secondary:
-    title: Our Team
+    title: Team
     weight: 4
 template: team
 ---

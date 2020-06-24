@@ -6,12 +6,12 @@ sections:
         url: /contact
     component: HeroBlock
     content: >-
-      **Marketing Digitalisierung**
+      **Kontaktieren Sie uns für einen gratis SEO Raport Ihrer Webseite**
 
-      Kontaktieren Sie uns für einen gratis SEO Raport Ihrer Webseite
+      
     image: images/smoke_vio1.png
     section_id: hero
-    title: Digital Marketing Agentur
+    title: Digital Marketing
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -19,11 +19,11 @@ sections:
       - actions:
           - label: Mehr dazu
             url: /features
-        content: "Wir Analysieren Ihren Internet auftritt
+        content: "Wir Analysieren Ihren Internet-Auftritt
         \r\n\n\r
-        Wir helfen Ihnen zu verstehen wie Ihre Besucher Ihre Webseite benutzen.
+        Wir helfen Ihnen zu verstehen wie Ihre Webseite abschneidet.
         \r\n\n\r
-        Kontaktieren Sie uns für eine gratis Analyse
+        Kontaktieren Sie uns für eine gratis SEO-Analyse
         "
         image: images/smoke_blu_350.png
         title: Analyse
