@@ -4,7 +4,7 @@ date: 2020-06-02T10:33:38.127Z
 thumb_img_path: /images/gatsby-wordpress.png
 template: post
 ---
-Wordpress in Verbindung mit GatsbyJS ist eine Möglichkeit um die bestehende Wordpress Webseite zu verbessern oder komplett neu etwas zu entwickeln. 
+Wordpress in Verbindung mit GatsbyJS ist eine Möglichkeit um die bestehende Wordpress Webseite zu verbessern oder komplett neu etwas zu entwickeln falls Sie bereits an Wordpress gewöhnt sind.
 
 In diesem Fall nennt man Wordpress ein "headless CMS" - es wird nur zur Datenspeicherung verwendet, also wie ein backend mit einem Graphic User Interface oder auch GUI genannt, wird der Blog, die Galerie, Events o.a. direkt im CMS verwaltet.
 
