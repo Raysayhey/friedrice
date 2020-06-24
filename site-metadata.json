@@ -13,7 +13,7 @@
     "subscribe_title": "abonnieren",
     "subscribe_content": "Newsletter abonnieren",
     "has_subscribe": true,
-    "social_title": "Agentur",
+    "social_title": "Social Media",
     "tagline": "Marketing Agentur aus Zürich",
     "logo_img": "/images/logow.png",
     "has_social": true,
@@ -23,6 +23,11 @@
         "text": "Privacy & Terms",
         "url": "/terms-conditions",
         "new_window": false
+      },
+      {
+        "new_window": true,
+        "text": "by BlockLab",
+        "url": "www.blocklab.ch"
       }
     ],
     "nav_title": "Agentur",
