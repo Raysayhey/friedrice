@@ -1,5 +1,5 @@
 ---
-title: DM-Block _ Fallstudie
+title: DM-Block-Webseite  _ Fallstudie
 subtitle: "Blick hinter die Kulissen "
 date: 2020-06-17T10:29:51.533Z
 thumb_img_path: /images/smoke_vio1.png
