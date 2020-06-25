@@ -18,9 +18,7 @@ google tools (ads, tag manager etc. )
 
 
 
-about Page - 
-  - connect correct Links
-  - Images
+
 
 
 Team - build and separate NavBarItem(maybe)
@@ -32,7 +30,7 @@ Social Media accounts creation and linking
 
 Update Date of blog posts...
 
-Discord or slack  for collaboration - inbed on website
+Discord  for collaboration - inbed on website
 
 
 
