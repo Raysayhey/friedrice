@@ -1,18 +1,17 @@
 ---
 title: Unsere Arbeit
-date: 2019-03-24
+date: 2019-03-24T00:00:00.000Z
 thumb_img_path: images/11_thumb.jpg
 content_img_path: images/11.jpg
-excerpt: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-  accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: ""
 template: post
 ---
 Wir sind ein riesiger Fan von "remote work" .
 Das heisst man kann von Überall aus arbeiten, sei das Zuhause oder in einem Kaffee oder während dem Reisen.
 
-Mit den richtigen Werkzeugen ist der Laptop das einzige Werkzeug welches man braucht.
+Mit den richtigen Werkzeugen ist der Laptop das Einzige was man braucht.
 
-Wir benutzen Kollaborationswerkzeuge wie GitHub und Figma, wobei wir alle Alles können aber unsere Vorlieben haben, was genau wir machen wollen.
+Wir benutzen Kollaborationswerkzeuge wie GitHub, Discord und Figma, wobei wir Alle unsere Vorlieben haben, was genau wir machen wollen.
 
 Einige sind lieber mit Code beschäftigt, (Webseiten & mobile Apps) Andere haben lieber die Kreativen Aspekte vom Design oder entwickeln Marketing Kampagnen.
 
