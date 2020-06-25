@@ -23,12 +23,9 @@
         "text": "Privacy & Terms",
         "url": "/terms-conditions",
         "new_window": false
-      },
-      {
-        "new_window": true,
-        "text": "by BlockLab",
-        "url": "www.blocklab.ch"
       }
+     
+    
     ],
     "nav_title": "Agentur",
     "has_nav": true

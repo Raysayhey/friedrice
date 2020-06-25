@@ -13,9 +13,9 @@ export default class Project extends React.Component {
           <div className="inner">
             <article className="post project post-full">
               <header className="post-header inner-small">
-                {/* <h1 className="post-title line-top">
+                <h1 className="post-title line-top">
                   {_.get(this.props, "pageContext.frontmatter.title")}
-                </h1> */}
+                </h1>
                 {_.get(this.props, "pageContext.frontmatter.subtitle") && (
                   <div className="post-subtitle">
                     {htmlToReact(
@@ -54,7 +54,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/495/241/90/acrylic-texture-design-color-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_red.jpg?raw=true)`
                           }}
                         ></div>
                         {/* <h1 id="demo1">This is a title</h1>
@@ -73,7 +73,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/106/906/355/pattern-digital-art-triangle-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_yell.jpg?raw=true)`
                           }}
                         ></div>
                         {/* <h1 id="demo1">This is a title</h1>
@@ -110,7 +110,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/246/99/675/texture-digital-art-pattern-artwork-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall2_pink.jpg?raw=true)`
                           }}
                         ></div>
                         {/* <h1 id="demo1">This is a title</h1>
@@ -131,7 +131,7 @@ export default class Project extends React.Component {
                           style={{
                             backgroundImage: ``
                           }}
-                        ></div>
+                        > </div>
                         <h1 id="demo1">Team</h1>
                         <p id="demo2">
                           Finden Sie heraus wer wir sind
@@ -147,7 +147,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/517/4/59/razer-phone-2-abstract-colorful-hd-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wal_prpl.jpg?raw=true)`
                           }}                        ></div>
                         {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
@@ -183,7 +183,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/320/160/1019/razer-phone-2-abstract-colorful-hd-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_yell.jpg?raw=true)`
                           }}                        ></div>
                         {/* <h1 id="demo1">Titiel unso</h1>
                         <p id="demo2">
@@ -200,7 +200,7 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://c4.wallpaperflare.com/wallpaper/913/752/910/digital-art-blue-leaves-pattern-wallpaper-preview.jpg)`
+                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall2_orng.jpg?raw=true)`
                           }}                        ></div>
                         {/* <h1 id="demo1">This is a title</h1>
                         <p id="demo2">
