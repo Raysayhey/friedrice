@@ -17,12 +17,17 @@
     "tagline": "Marketing Agentur aus Zürich",
     "logo_img": "/images/logow.png",
     "has_social": true,
-    "content": "&copy; DM-Block. All rights reserved.",
+    "content": "&copy; DM-Block ",
     "links": [
       {
-        "text": "Privacy & Terms",
+        "text": "Privatsphäre & Rechtliches",
         "url": "/terms-conditions",
         "new_window": false
+      },
+      {
+        "text": " - von ray @ blocklab.ch",
+        "url": "https://block-lab.ch",
+        "new_window": true
       }
      
     

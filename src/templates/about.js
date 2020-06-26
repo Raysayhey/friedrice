@@ -3,7 +3,14 @@ import _ from "lodash";
 
 import { Layout } from "../components/index";
 import { htmlToReact } from "../utils";
-// import Img1 from "../../static/images/9.jpg"
+import Img1 from "../../static/images/wal_prpl.jpg"
+import green from "../../static/images/wall2_greenish.jpg"
+import orng from "../../static/images/wall2_orng.jpg"
+import pink from "../../static/images/wall2_pink.jpg"
+import yellow from "../../static/images/wall_yell.jpg"
+import red from "../../static/images/wall_red.jpg"
+
+
 
 export default class Project extends React.Component {
   render() {
@@ -54,14 +61,13 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_red.jpg?raw=true)`
+                            backgroundImage: "url(" + green + ")"
                           }}
                         ></div>
-                        {/* <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                          Wir sind ein Netzwerk
+                        </p>
                       </a>
                     </div>
                   </li>
@@ -73,14 +79,13 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_yell.jpg?raw=true)`
+                            backgroundImage: "url(" + yellow + ")"
                           }}
                         ></div>
-                        {/* <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                         Wir sind eine Weiterbildung
+                        </p>
                       </a>
                     </div>
                   </li>
@@ -110,14 +115,13 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall2_pink.jpg?raw=true)`
+                            backgroundImage: "url(" + red + ")"
                           }}
                         ></div>
-                        {/* <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                          Wir sind auf der ganzen Welt verteilt
+                        </p>
                       </a>
                     </div>
                   </li>
@@ -147,13 +151,12 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wal_prpl.jpg?raw=true)`
+                            backgroundImage: "url(" + red + ")"
                           }}                        ></div>
-                        {/* <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                          Wir sind zu günstig
+                        </p>
                       </a>
                     </div>
                   </li>
@@ -183,13 +186,12 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall_yell.jpg?raw=true)`
+                            backgroundImage: "url(" + yellow + ")"
                           }}                        ></div>
-                        {/* <h1 id="demo1">Titiel unso</h1>
+                        {/* <h1 id="demo1">Titiel unso</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                          Wir haben freude an unserer Arbeit
+                        </p>
                       </a>
                     </div>
                   </li>
@@ -200,13 +202,12 @@ export default class Project extends React.Component {
                         <div
                           class="img"
                           style={{
-                            backgroundImage: `url(https://github.com/Raysayhey/friedrice/blob/master/static/images/wall2_orng.jpg?raw=true)`
+                            backgroundImage: "url(" + green + ")"
                           }}                        ></div>
-                        {/* <h1 id="demo1">This is a title</h1>
+                        {/* <h1 id="demo1">This is a title</h1> */}
                         <p id="demo2">
-                          Some sample text about the article this hexagon leads
-                          to
-                        </p> */}
+                          Wir sind unabhängig
+                        </p>
                       </a>
                     </div>
                   </li>
