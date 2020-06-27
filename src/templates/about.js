@@ -190,7 +190,7 @@ export default class Project extends React.Component {
                           }}                        ></div>
                         {/* <h1 id="demo1">Titiel unso</h1> */}
                         <p id="demo2">
-                          Wir haben freude an unserer Arbeit
+                          Wir mögen unsere Arbeit
                         </p>
                       </a>
                     </div>
