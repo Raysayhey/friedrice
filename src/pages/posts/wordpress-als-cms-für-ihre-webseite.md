@@ -4,11 +4,11 @@ date: 2020-06-02T10:33:38.127Z
 thumb_img_path: /images/gatsby-wordpress.png
 template: post
 ---
-Wordpress in Verbindung mit GatsbyJS ist eine Möglichkeit um die bestehende Wordpress Webseite zu verbessern oder komplett neu etwas zu entwickeln falls Sie bereits an Wordpress gewöhnt sind.
+Wordpress in Verbindung mit GatsbyJS ist eine Möglichkeit um die bestehende Wordpress Webseite zu verbessern oder komplett neu etwas zu entwickeln, falls Sie bereits an Wordpress gewöhnt sind und dieses CMS (Content Managament System) weiter verwenden wollen.
 
 In diesem Fall nennt man Wordpress ein "headless CMS" - es wird nur zur Datenspeicherung verwendet, also wie ein backend mit einem Graphic User Interface oder auch GUI genannt, wird der Blog, die Galerie, Events o.a. direkt im CMS verwaltet.
 
-Dies erlaubt die bestehenden Daten komplett zu übernehmen indem man sie durch GraphQL in die neue Webseite einspeist. 
+Dies erlaubt die bestehenden Daten komplett zu übernehmen indem man sie durch GraphQL in die neue GatsbyJS Webseite einspeist. 
 Danach wird die Webseite bei jedem neuen Post oder Bild - je nachdem was man einstellt - automatisch neu gebaut und die neuen Daten hineingezogen. Dies erlaubt es den Inhabern der Webseite die Daten selbst zu verwalten, ohne dass man in den Code eingreifen muss.
 
 Ein weiterer riesiger Vorteil ist die Gestaltung von SEO - speziell eher Technisches SEO z.b. Webseiten Ladezeiten-Optimierung ist ein Problem das mit GatsbyJS gelöst werden kann. 
@@ -18,18 +18,18 @@ Die Tools wie Yoast-SEO sind für Wordpress Seiten ein muss, sind aber doch sehr
 ### Die Vor- und Nachteile
 
 
-#### Schnelle Websites: 
-Der Hauptvorteil der Erstellung einer statischen Website mit Gatsby ist die Geschwindigkeit, die Web-Entwickler seit Googles Ankündigung, die Geschwindigkeit von Websites für das Ranking in der Websuche zu nutzen, zu optimieren versuchen. Die Ladezeiten wirken sich auch auf Seitenaufrufe und Konversionen aus. Es wird geschätzt, dass eine Verzögerung von einer Sekunde bei der Ladezeit der Website zu einer Verringerung der Konversionen um 7% führen kann.
+#### Schnelle Webseite: 
+Der Hauptvorteil der Erstellung einer statischen Webseite mit Gatsby ist die Geschwindigkeit, die Web-Entwickler seit Googles Ankündigung die Geschwindigkeit von Websites für das Ranking in der Websuche zu nutzen, zu optimieren versuchen. Die Ladezeiten wirken sich auch auf Seitenaufrufe und Konversionen aus. Es wird geschätzt, dass eine Verzögerung von einer Sekunde bei der Ladezeit der Website zu einer Verringerung der Konversionen um 7% führen kann.
 
 #### Sicherheit: 
-Mit einer statischen Website erhalten Sie auch zusätzliche Sicherheit. Da es sich um einen Haufen statischer Dateien handelt, gibt es nicht viel zu hacken. Außerdem können Sie die statischen Dateien jederzeit neu generieren, wenn sie verloren gehen.
+Mit einer statischen Website erhalten Sie auch zusätzliche Sicherheit. Da es sich um einen Haufen statischer Dateien handelt, gibt es nicht viel zu hacken. Außerdem können Sie die statischen Dateien jederzeit neu generieren, falls sie verloren gehen.
 
 #### Server-Kosten: 
-Das Hosten einer dynamischen Website erfordert, dass Ihr Server mit Ihrem Technologiestack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senken kann.
+Das Hosten einer dynamischen Webseite erfordert, dass Ihr Server mit Ihrem Tech-Stack kompatibel ist. Wenn Sie mit einer statischen Website arbeiten, können Sie sie auf fast jedem Server hosten, was auch die mit dem Hosting verbundenen Kosten senken kann.
 
 Die Generierung der statischen Seite mit GatsbyJS bei jeder Änderung erfordert JavaScript, was auch auf einem lokalen Rechner erfolgen kann, bevor die statischen Dateien auf die Seite übertragen werden.
 
-Damit gemeint ist, dass Sie auf Ihrem Computer Wordpress laufen lassen können und die Webseite. Nach einer Veränderung generieren Sie die statische Webseite aufIhrem Computer und laden Sie auf den Server, wo Sie die Webseite Hosten. 
+Damit gemeint ist, dass Sie auf Ihrem Computer ein CMS laufen lassen können und die Webseite. Nach einer Veränderung generieren Sie die statische Webseite auf Ihrem Computer und laden Sie auf den Server, wo Sie die Webseite Hosten. 
 Es gibt gratis Automatisierungen für diese Prozesse (GitHub, Netlify etc.)
 
 #### Warum Gatsby vermeiden?
@@ -39,12 +39,12 @@ Zum Beispiel müssen Kommentare extern über einen Dienst wie Disqus gehostet we
 
 Kontaktformulare müssten auch über einen externen Partner wie Google Forms umgeleitet werden. Kurz gesagt, Sie würden die direkte Kontrolle über solche dynamischen Inhalte verlieren, da ihre Antworten nicht auf Ihren Servern gespeichert werden.
 
-Häufige "Builds" sind unpraktisch: Auch statische Websites haben das Problem mit häufigem Ausbau. Jede Änderung, die Sie an Ihrer Seite vornehmen, wird erst dann reflektiert, wenn Sie die Seiten neu generiert und erneut auf den Server geladen haben. 
-Wir bei DM-Block benutzen "Hooks", welche automatisch die Seite bei neuem Content neu bauen. Dies ist in den meisten Fällen auch komplett gratis - ausser man reizt diese Funktion aus und generiert die Seite 3 mal neu am Tag.
+Häufige "Builds" sind unpraktisch: Auch statische Webseiten haben das Problem mit häufigem Ausbau. Jede Änderung, die Sie an Ihrer Seite vornehmen, wird erst dann reflektiert, wenn Sie die Seiten neu generiert und erneut auf den Server geladen haben. 
+Wir bei DM-Block benutzen eine Art von "Hooks", welche automatisch die Seite bei neuem Content neu bauen. Dies ist in den meisten Fällen auch komplett gratis - ausser man reizt diese Funktion aus und generiert die Seite 3 mal neu am Tag.
 
 Technisches Fachwissen: Gatsby baut auf ReactJS und GraphQL auf. Daher sind einige Kenntnisse von JavaScript und eine Grundidee von GraphQL erforderlich, um mit Gatsby zu arbeiten und eine Webseite mit Gatsby zu erstellen.
 
-<a href="https://www.youtube.com/watch?v=4vstfmB3wBE&feature=emb_title" > Hier ein Video auf englisch. Erklärung wie das Ganze funktioniert </a>
+<a href="https://www.youtube.com/watch?v=4vstfmB3wBE&feature=emb_title" > Hier ein Video auf englisch. Kurze Erklärung wie das Ganze funktioniert </a>
 
 Unser Favorit an diesem Combo von Wordpress und GatsbyJS ist die Möglichkeit mit Javascript eine schönere Webseite zu gestalten und diese im Detail anzupassen, da man mit "richtigem" Code arbeitet und nicht mit einem Site-Builder von Wordpress.
 Ein weiterer Vorteil sind die Möglichkeiten nicht nur von Wordpress sondern auch von anderen Orten Daten hinein zu laden. (Instagram, Twitter, Facebook, Netlify-CMS etc.) 
