@@ -19,15 +19,15 @@ Wie immer, einfacher gesagt als getan.
 
 Wir erarbeiten in sich geschlossene Kampagnen. 
 
-Eine Kampagne ist eine Strategie welche wir rund um den Social Media Impact herum  bauen, um einen funnel zu generieren, welcher den potentiellen Kunden einen Vorteil gibt. Einerseits kann man mit Vergünstigungen und Probe Programmen, welche Erstkunden einen günstigeren Zugang zum Produkt gibt, arbeiten oder man bietet etwas Zusätzliches zum normalen an.
+Eine Kampagne ist eine Strategie welche wir rund um den Social Media Impact herum  bauen, um einen funnel zu generieren, welcher den potentiellen Kunden einen Vorteil gibt. Einerseits kann man mit Vergünstigungen und Probe Programmen, welche Erstkunden einen günstigeren Zugang zum Produkt gibt arbeiten oder man bietet etwas Zusätzliches zum normalen an. Das ist herkömmliches Strategie denken und hat sich schon für viele Firmen bewährt.
 
 Oder man pusht die Story. 
 
-Die Story ist mehr diversifiziert ausgedrückt den Vorteil des Produkts oder des Services für die Kunden schmackhaft zu machen. Man spricht den Charakter des Verkaufbaren an, indem man die positive Veränderung anspricht.
+Die Story ist mehr diversifiziert ausgedrückt den Vorteil des Produkts oder des Services für die Kunden schmackhaft zu machen. Man spricht den Charakter des Verkaufbaren an, indem man die positive Seiten anspricht.
 
 > Oder einfacher gesagt: man versucht in wenigen hübschen Worten den Kunden davon zu überzeugen Geld auszugeben.
 
-Ein Beispiel ist dieser Blog. Wir versuchen mit diesen Beiträgen ein Bild von unserem Charakter zu vermitteln, damit Sie sich bei uns melden und wir ihr hart verdientes Geld an uns nehmen können. Im Austausch dafür bieten wir unsere Skills uns unsere Kreative Arbeit als Marketing-Hilfe an.
+Ein Beispiel ist dieser Blog. Wir versuchen mit diesen Blog-Posts ein Bild von unserem Charakter zu vermitteln, damit Sie sich bei uns melden und wir ihr hart verdientes Geld an uns nehmen können. Im Austausch dafür bieten wir unsere Skills uns unsere Kreative Arbeit im Beriech Marketing an.
 
 Unser Problem ist, dass wir nicht versprechen können, dass die Kampagnen auch funktionieren und Ihre Verkaufszahlen besser werden. Das ist sicherlich einer der Punkte, wieso wir uns nicht auf jeden Auftrag stürzen, sondern nur etwas erarbeiten, falls wir eine Story sehen, hinter welcher wir auch stehen wollen. Ein weitere Punkt ist, dass wir nur an etwas arbeiten wollen, das uns gefällt und wenn wir so etwas gefunden haben, möchten wir den Auftrag und sind eigentlich viel zu günstig für die Zeit, welche wir aufwenden um eine Kampagne durchzudenken und auszuarbeiten.
 
@@ -39,6 +39,7 @@ Egal welcher Channel man benutzt um Werbung zu vertreiben, es geht immer um die 
 
 * Text
 * Bild 
+* Audio
 * Video
 
 Das schwierigste gut hinzubekommen ist der Text. Das schwierigste zu produzieren ist Video.
@@ -48,20 +49,20 @@ Das schwierigste gut hinzubekommen ist der Text. Das schwierigste zu produzieren
 >
 > Ihre Videos sprechen für sich selbst.
 
-Natürlich können Sie auch ein Podcast zu Werbungszwecke verwenden, aber wir würden Ihnen davon abraten.
+Im Audio Bereich können Sie ein Podcast oder Radio zu Werbungszwecke verwenden, aber wir würden Ihnen davon abraten.
 
 
 ### Psychologie & Sentiment
 
 Die Werbung beinhaltet immer einen Psychologischen Aspekt. 
 
-Eine Firma kann versuchen ein Gefühl in den potentiellen Kunden zu wecken, um die Kaufentscheidung einfacher zu gestalten oder das Produkt bzw. den Service an ein Gefühl zu koppeln. Sie kennen sicher die Coca Cola Werbungen.
+Eine Firma kann versuchen ein Gefühl in den potentiellen Kunden zu wecken, um die Kaufentscheidung einfacher zu gestalten oder das Produkt bzw. den Service an ein Gefühl zu koppeln. Sie kennen sicher die Coca Cola Werbungen. "taste the feeling"
 
 Man kann versuchen den Sozialen Aspekt der Kunden anzusprechen. z.b. "für jedes gekaufte Paar Schuhe spendet die Firma ein Paar an eine bedürftige Person"
 
-Oder man hämmert auf den Nutzen ein, welcher als Lebensverbessernd vermarktet wird.
+Oder man hämmert auf den Nutzen ein, welcher sich auf positiver Ebene vermarkten lässt.
 
-Unser Liebling ist die Mischung. Wir sind ein starker Vertreter der These, dass jede gute Werbekampagne eine abgerundete Mischung ist, welche Anerkennt, dass Werbung ein Mittel zum Zweck ist und somit nicht zu stark in eine Richtung lehnen sollte. 
+Unser Liebling ist die Mischung. Wir sind ein starker Vertreter der These, dass jede gute Werbekampagne eine abgerundete Mischung ist, welche Anerkennt, dass Werbung ein Mittel zum Zweck ist und somit nicht zu stark in eine Richtung lehnen muss. 
 
 ### Das Social Media Game 
 
@@ -101,10 +102,14 @@ Neben Social Media Marketing gibt es noch ein paar andere Wege wie Sie an Kunden
 
 Jede Dieser Kategorien hat ihre eigenen Vor- und Nachteile und ist mehrheitlich auf Ihre Kunden-Demografie zurückzuführen was produktiv sein könnte.
 
-Einige dieser Channels sind wirklich effektiv falls es richtig durchgeführt wird aber bei digital Marketing zählt mehr das Gesamtpaket.
+Einige dieser Channels sind wirklich effektiv falls es richtig durchgeführt wird aber bei digital Marketing zählt mehr das Gesamtpaket bzw. das was wirklich zieht ist Viral Content.
 
-Gratulation wenn Sie hier noch lesen.
+#### Viral content
 
-Werbung:
+Der Heilige Gral von Digital Marketing ist es mit gratis Werbung etwas zu kreieren, dass so gut ist, dass die Leute den content Teilen. Und Viral bedeutet nicht, dass es ein paar "likes" und "shares" hat sondern hier ist wirklich gemeint, dass die Reichweite gesprengt wurde und man über 10x - 100x Impact erreicht.
 
-Wir haben keine 5 Minuten um herauszufinden wie Ihr Digitales Profil aussieht weil alles was wir uns damit beschäftigen im Internet herumliegt. Darum können wir Ihnen auch gratis einen Rapport erstellen.
+### Achtung - Werbung:
+
+Wir haben keine 5 Minuten um herauszufinden wie Ihr Digitales Profil aussieht, weil alles im Internet herumliegt. Darum können wir Ihnen auch gratis einen Rapport erstellen. 
+
+Nehmen Sie mit uns Kontakt auf, falls Sie interessiert sind.
