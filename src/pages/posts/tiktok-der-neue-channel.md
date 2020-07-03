@@ -23,18 +23,21 @@ Im Gegensatz zu Instagram geht es nicht darum Content von hoher Qualität zu pro
 TikTok hat eine aussergewöhnliche organische Reichweite. Selbst ohne Follower kann ein Post viral werden und Millionen erreichen. So wurde auch das Lied «Old Town Road» bekannt und an die Spitze der US Charts katapultiert. Das bedeutet, dass TikTok-Benutzer nicht nur Inhalte von Personen konsumieren, die sie kennen und denen sie folgen, sondern ebenfalls durch Videos browsen, die durch den TikTok-Algorithmus, der unglaublich intelligent ist, vorgeschlagen werden. Mit jedem Swipe erkennt dieser, durch "machine learning" unterstützte Algorithmus, welche Inhalte eine Person mag und welche nicht. Entsprechend werden mehr oder weniger Videos einer bestimmten Art angezeigt und TikTok schafft es, genau das zu liefern, was Leute sehen wollen. Das kann süchtig machen. Der durchschnittlich Nutzer verwendet 52 Min pro Tag
 damit, sich die kurzen Videos auf TikTok anzusehen.
 
-Das machine learning ist eigentlich relativ simple und funktioniert  mit dem analysieren der "Hashtags" der Videos. D.h. wenn Sie Videos "liken" welche Hashtags in japanische oder koreanische haben, dann wird bald ihre ganze Timeline mit Videos aus diesen Länder gefüllt.
+Das machine learning ist relativ simple und funktioniert Einerseits mit dem analysieren der "Hashtags" der Videos. D.h. wenn Sie Videos "liken" welche Hashtags in japanische oder koreanische haben, dann wird bald ihre ganze Timeline mit Videos aus diesen Länder gefüllt. Andererseits werden auch die Zahlen verwertet, wieviele Sekunden Sie ein Video ansehen bzw. wie oft Sie ein ein Video ansehen. Theoretisch alles nicht so kompliziert, aber extrem viele Daten bedeutet auch extreme kosten. 
 
-Wenn es Ihnen als Privatperson oder Business somit gelingt, ansprechende Inhalte in Form von Kurzvideos zu erstellen und Sie die Sprache der Plattform verstehen, wird sie Ihnen die Aufmerksamkeit eines grossen Publikums bieten. 
+Niemand konsumiert auf TikTok freiwillig Werbung darum ist Werbung eigentlich auch ein normaler Video mit "Schleichwerbung".
 
-Es wird somit Zeit, die App nicht weiterhin zu ignorieren, sondern sich an sie heranzutasten, zu experimentieren und mögliches Potential auszuschöpfen. Es ist wahrscheinlich, dass TikTok “The Next Big Thing” ist.
+Wenn es Ihnen als Privatperson oder Business gelingt, ansprechende Inhalte in Form von Kurzvideos zu erstellen und Sie die Sprache der Plattform verstehen, wird sie Ihnen die Aufmerksamkeit eines grossen Publikums bieten können. 
 
-TikTok ist nicht neu. Früher gab es Vine, ziemlich genau das Gleiche mit den Kurzvideos. Vine wurde dann von Twitter gekauft und nach einem Jahr abgestellt. Das Hauptproblem waren die Gesetze in den USA, welche nun, da TikTok aus China kommt, nicht mehr als Einschränkung bestehen.
+Es wird somit Zeit, die App nicht weiterhin zu ignorieren, sondern sich an sie heranzutasten, zu experimentieren und mögliches Potential auszuschöpfen. Es ist wahrscheinlich, dass TikTok “The Next Big Thing” ist vielleicht nicht für Ihr Business aber in jedem Fall für das Publikum.
+
+TikTok ist nicht neu. Früher gab es Vine - aus den USA. Ziemlich genau das Gleiche mit den Kurzvideo Format. 
+Vine wurde dann von Twitter gekauft und nach einem Jahr abgestellt. Das Hauptproblem waren die Gesetze in den USA, welche nun, da TikTok aus China kommt, nicht mehr als Einschränkung bestehen.
 
 
+Author:
 
-Manuela Bruderer
-25. Juni 2020
+Manuela Bruderer mit Ergänzungen von Ray
 
 
 
