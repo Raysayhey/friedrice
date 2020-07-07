@@ -6,6 +6,10 @@ import {Layout} from '../components/index';
 import {htmlToReact} from '../utils';
 import Img1 from '../../static/images/1.jpg'
 import me from '../../static/images/me.jpeg'
+import Manu from '../../static/images/manu_brudi.jpeg'
+import Thomas from '../../static/images/Thomas.jpg'
+import David from '../../static/images/Vij.jpg'
+import Vij from '../../static/images/Vij.jpg'
 
 
 export default class Project extends React.Component {
@@ -39,7 +43,7 @@ export default class Project extends React.Component {
         CEO
       </p>
       <p className="c-card__intro">
-        Ich beschäftige mich hauptsächlich mit der Entwicklung von Webseiten und mobile Apps. Ich bin ein Fan von kreativem Digital-Marketing.
+       Entwicklung von Webseiten und mobile Apps. Fan von kreativem Digital-Marketing.
       </p>
     </div>
     <footer className="c-card__footer">
@@ -47,25 +51,89 @@ export default class Project extends React.Component {
     <a className="ikone" href="https://twitter.com/LotmarRaymond" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
     </footer>
   </article>
+
     <article className="c-card c-card--center">
     <header className="c-card__header">
       <img src={Img1} className="c-card__image" alt="Card " />
     </header>
     <div className="c-card__body">
       <h2 className="c-card__title">
-       Eldin
+       David
+      </h2>
+      <p className="c-card__subtitle">
+        Growth Hacker & Consultant
+      </p>
+      <p className="c-card__intro">
+        Arbeit im Bereich Marketing & UX / UI 
+      </p>
+    </div>
+    {/* <footer className="c-card__footer">
+    <a className="ikone" href="linkedin.com"><i class="fab fa-linkedin"></i></a>
+    <a className="ikone" href="twitter.com"><i class="fab fa-twitter"></i></a>
+    </footer> */}
+  </article>
+
+  <article className="c-card c-card--center">
+    <header className="c-card__header">
+      <img src={Thomas} className="c-card__image" alt="Card " />
+    </header>
+    <div className="c-card__body">
+      <h2 className="c-card__title">
+       Thomas
+      </h2>
+      <p className="c-card__subtitle">
+        Marketing 
+      </p>
+      <p className="c-card__intro">
+        Freelancer im Bereich Digital Marketing und konventionell Marketing. 
+      </p>
+    </div>
+    {/* <footer className="c-card__footer">
+    <a className="ikone" href="linkedin.com"><i class="fab fa-linkedin"></i></a>
+    <a className="ikone" href="twitter.com"><i class="fab fa-twitter"></i></a>
+    </footer> */}
+  </article>
+
+  <article className="c-card c-card--center">
+    <header className="c-card__header">
+      <img src={Manu} className="c-card__image" alt="Card " />
+    </header>
+    <div className="c-card__body">
+      <h2 className="c-card__title">
+       Manuela
+      </h2>
+      <p className="c-card__subtitle">
+        UX & UI 
+      </p>
+      <p className="c-card__intro">
+        Freelancerin im Bereich Marketing & UX / UI. 
+      </p>
+    </div>
+    {/* <footer className="c-card__footer">
+    <a className="ikone" href="linkedin.com"><i class="fab fa-linkedin"></i></a>
+    <a className="ikone" href="twitter.com"><i class="fab fa-twitter"></i></a>
+    </footer> */}
+  </article>
+
+  <article className="c-card c-card--center">
+    <header className="c-card__header">
+      <img src={Vij} className="c-card__image" alt="Card " />
+    </header>
+    <div className="c-card__body">
+      <h2 className="c-card__title">
+       Vij
       </h2>
       <p className="c-card__subtitle">
         Entwickler
       </p>
       <p className="c-card__intro">
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+         Mobile & Web Entwickler. Freelancer mit Flutter und Angular skills.
       </p>
     </div>
-    <footer className="c-card__footer">
+    {/* <footer className="c-card__footer">
     <a className="ikone" href="linkedin.com"><i class="fab fa-linkedin"></i></a>
     <a className="ikone" href="twitter.com"><i class="fab fa-twitter"></i></a>
-    </footer>
+    </footer> */}
   </article>
   
 </section>

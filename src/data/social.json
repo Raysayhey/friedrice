@@ -3,21 +3,14 @@
     {
       "type": "twitter",
       "title": "Twitter",
-      "url": "https://twitter.com/"
+      "url": "https://twitter.com/dmblockzurich"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/"
-    },
-    {
-      "title": "Facebook",
-      "url": "https://facebook.com/"
+      "type": "discord",
+      "title": "Discord",
+      "url": "https://discord.gg/nnCWMDD"
     }
+   
+   
   ]
 }

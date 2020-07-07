@@ -11,12 +11,12 @@ By accessing this website we assume you accept these terms and conditions in ful
 The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: “Client”, “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. “The Company”, “Ourselves”, “We”, “Our” and “Us”, refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing law of United States. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### Cookies
-We employ the use of cookies. By using DM-Block's website you consent to the use of cookies in accordance with DM-Block’s privacy policy.
+We do not employ the use of cookies. Nevertheless by using DM-Block's website you consent to the use of cookies in accordance with DM-Block’s privacy policy.
 
 Most of the modern day interactive web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. 
 
 ### License
-Unless otherwise stated, DM-Block and/or it’s licensors own the intellectual property rights for all material on DM-Block. All intellectual property rights are reserved. You may view and/or print pages from https://www.dm-block.ch for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, DM-Block and/or it’s licensors own the rights to use for all material on DM-Block. rights are reserved. You may view and/or print pages from https://www.dm-block.ch for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
 
@@ -84,5 +84,4 @@ The limitations and exclusions of liability set out in this Section and elsewher
 
 To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-Credit & Contact Information
-This Terms and conditions page was created at termsandconditionstemplate.com generator. If you have any queries regarding any of our terms, please contact us.
+Gerichtsbezirk ist Zürich
