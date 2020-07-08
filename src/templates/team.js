@@ -7,7 +7,7 @@ import {htmlToReact} from '../utils';
 import Img1 from '../../static/images/1.jpg'
 import me from '../../static/images/me.jpeg'
 import Manu from '../../static/images/manu_brudi.jpeg'
-import Thomas from '../../static/images/Thomas.jpg'
+import Thomas from '../../static/images/thomas.jpg'
 import David from '../../static/images/Vij.jpg'
 import Vij from '../../static/images/Vij.jpg'
 
