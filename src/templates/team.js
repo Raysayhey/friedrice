@@ -9,7 +9,7 @@ import me from '../../static/images/me.jpeg'
 import Manu from '../../static/images/manu_brudi.jpeg'
 import Thomas from '../../static/images/thomas.jpg'
 import David from '../../static/images/Vij.jpg'
-import Vij from '../../static/images/Vij.jpg'
+import Vij from '../../static/images/vij.jpg'
 
 
 export default class Project extends React.Component {
